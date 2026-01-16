@@ -1,0 +1,1001 @@
+order_id,date,product,category,quantity,unit_price,customer_type,region,payment_method,total_amount
+ORD00849,2024-01-01,Headphones,Electronics,5,839.92,New,North,PayPal,4199.6
+ORD00678,2024-01-01,Phone,Electronics,6,237.3,Returning,West,Credit Card,1423.8
+ORD00649,2024-01-01,Smartwatch,Electronics,9,254.61,Returning,South,PayPal,2291.49
+ORD00756,2024-01-01,Headphones,Accessories,8,168.42,New,East,Credit Card,1347.36
+ORD00992,2024-01-01,Laptop,Electronics,3,956.73,New,North,PayPal,2870.19
+ORD00447,2024-01-01,Smartwatch,Electronics,2,279.54,Returning,South,Credit Card,559.08
+ORD00207,2024-01-02,Headphones,Electronics,7,1004.22,Returning,South,Credit Card,7029.54
+ORD00264,2024-01-02,Headphones,Electronics,7,934.42,Returning,North,PayPal,6540.94
+ORD00064,2024-01-02,Tablet,Electronics,3,599.74,Returning,North,PayPal,1799.22
+ORD00896,2024-01-03,Laptop,Electronics,1,246.27,New,West,Debit Card,246.27
+ORD00949,2024-01-04,Tablet,Accessories,1,266.25,Returning,South,Debit Card,266.25
+ORD00497,2024-01-04,Laptop,Electronics,9,856.68,Returning,West,Credit Card,7710.12
+ORD00326,2024-01-04,Tablet,Electronics,6,997.41,Returning,South,Debit Card,5984.46
+ORD00969,2024-01-04,Phone,Electronics,3,339.15,Returning,East,Credit Card,1017.45
+ORD00614,2024-01-05,Headphones,Electronics,6,958.36,Returning,South,Debit Card,5750.16
+ORD00416,2024-01-05,Tablet,Accessories,2,378.1,Returning,West,PayPal,756.2
+ORD00721,2024-01-05,Phone,Accessories,4,90.37,Returning,West,PayPal,361.48
+ORD00129,2024-01-05,Laptop,Electronics,2,363.53,Returning,North,Debit Card,727.06
+ORD00843,2024-01-05,Smartwatch,Accessories,7,444.09,New,North,Debit Card,3108.63
+ORD00965,2024-01-06,Laptop,Electronics,9,1363.03,Returning,East,PayPal,12267.27
+ORD00742,2024-01-06,Laptop,Accessories,3,1301.36,New,South,PayPal,3904.08
+ORD00335,2024-01-06,Tablet,Electronics,6,710.65,Returning,East,PayPal,4263.9
+ORD00935,2024-01-06,Headphones,Electronics,1,495.11,Returning,West,Credit Card,495.11
+ORD00895,2024-01-07,Smartwatch,Accessories,5,1109.21,Returning,South,PayPal,5546.05
+ORD00606,2024-01-07,Headphones,Electronics,2,286.84,Returning,South,Credit Card,573.68
+ORD00829,2024-01-08,Phone,Electronics,3,809.17,Returning,North,Credit Card,2427.51
+ORD00688,2024-01-08,Tablet,Electronics,1,1197.62,New,North,PayPal,1197.62
+ORD00876,2024-01-08,Phone,Electronics,1,1232.87,Returning,North,PayPal,1232.87
+ORD00098,2024-01-09,Tablet,Electronics,1,298.58,Returning,South,Debit Card,298.58
+ORD00270,2024-01-09,Phone,Electronics,7,1068.61,Returning,East,PayPal,7480.27
+ORD00602,2024-01-09,Laptop,Electronics,2,794.12,Returning,South,Credit Card,1588.24
+ORD00715,2024-01-10,Phone,Electronics,6,214.49,Returning,South,PayPal,1286.94
+ORD00485,2024-01-10,Laptop,Electronics,7,117.84,Returning,North,Debit Card,824.88
+ORD00852,2024-01-12,Smartwatch,Electronics,6,158.23,Returning,South,PayPal,949.38
+ORD00682,2024-01-12,Tablet,Electronics,1,417.7,Returning,West,Debit Card,417.7
+ORD00519,2024-01-12,Tablet,Accessories,6,627.43,New,North,PayPal,3764.58
+ORD00917,2024-01-13,Laptop,Accessories,3,1033.67,Returning,South,PayPal,3101.01
+ORD00379,2024-01-13,Smartwatch,Accessories,5,205.23,Returning,East,Credit Card,1026.15
+ORD00152,2024-01-13,Tablet,Accessories,2,1478.69,New,North,Debit Card,2957.38
+ORD00555,2024-01-13,Smartwatch,Accessories,1,491.51,Returning,South,Debit Card,491.51
+ORD00051,2024-01-14,Phone,Accessories,3,57.75,Returning,West,Credit Card,173.25
+ORD00676,2024-01-14,Tablet,Accessories,5,672.95,Returning,West,PayPal,3364.75
+ORD00886,2024-01-14,Laptop,Electronics,8,705.53,New,South,Credit Card,5644.24
+ORD00892,2024-01-14,Smartwatch,Electronics,7,625.57,Returning,South,PayPal,4378.99
+ORD00135,2024-01-15,Smartwatch,Electronics,1,235.51,New,South,Credit Card,235.51
+ORD00093,2024-01-15,Headphones,Electronics,7,706.72,Returning,West,Credit Card,4947.04
+ORD00904,2024-01-15,Phone,Electronics,9,285.68,Returning,East,Credit Card,2571.12
+ORD00498,2024-01-16,Phone,Electronics,5,92.28,Returning,West,Debit Card,461.4
+ORD00330,2024-01-17,Tablet,Electronics,6,919.46,Returning,East,Debit Card,5516.76
+ORD00353,2024-01-18,Phone,Electronics,6,397.98,New,North,PayPal,2387.88
+ORD00567,2024-01-19,Laptop,Electronics,8,1100.14,Returning,East,Debit Card,8801.12
+ORD00637,2024-01-19,Headphones,Electronics,6,539.42,Returning,North,Debit Card,3236.52
+ORD00384,2024-01-20,Headphones,Electronics,8,1301.55,New,East,PayPal,10412.4
+ORD00672,2024-01-20,Tablet,Electronics,3,1014.78,Returning,West,Credit Card,3044.34
+ORD00988,2024-01-20,Laptop,Electronics,6,460.88,New,South,Debit Card,2765.28
+ORD00045,2024-01-21,Phone,Electronics,2,74.87,Returning,East,Debit Card,149.74
+ORD00007,2024-01-21,Phone,Electronics,9,364.98,Returning,West,PayPal,3284.82
+ORD00847,2024-01-22,Headphones,Electronics,7,273.18,Returning,South,Debit Card,1912.26
+ORD00308,2024-01-22,Headphones,Accessories,1,355.63,Returning,East,Credit Card,355.63
+ORD00026,2024-01-22,Tablet,Accessories,3,1452.53,Returning,East,Debit Card,4357.59
+ORD00748,2024-01-23,Headphones,Electronics,3,1491.9,New,East,Credit Card,4475.7
+ORD00483,2024-01-23,Smartwatch,Electronics,9,1037.96,Returning,West,Credit Card,9341.64
+ORD00581,2024-01-25,Tablet,Electronics,1,452.69,Returning,South,PayPal,452.69
+ORD00919,2024-01-25,Tablet,Accessories,9,265.12,New,West,Credit Card,2386.08
+ORD00915,2024-01-25,Tablet,Electronics,7,478.43,Returning,West,Debit Card,3349.01
+ORD00978,2024-01-26,Laptop,Accessories,9,408.73,Returning,North,PayPal,3678.57
+ORD00873,2024-01-26,Tablet,Electronics,3,511.07,Returning,East,Credit Card,1533.21
+ORD00376,2024-01-26,Tablet,Accessories,5,1148.32,Returning,West,Debit Card,5741.6
+ORD00317,2024-01-27,Headphones,Accessories,2,176.95,Returning,East,Credit Card,353.9
+ORD00110,2024-01-28,Tablet,Electronics,7,1123.82,New,West,PayPal,7866.74
+ORD00165,2024-01-28,Headphones,Electronics,1,1464.29,Returning,South,PayPal,1464.29
+ORD00907,2024-01-28,Smartwatch,Accessories,1,948.95,Returning,South,PayPal,948.95
+ORD00697,2024-01-28,Tablet,Accessories,4,1339.89,New,East,PayPal,5359.56
+ORD00887,2024-01-28,Laptop,Electronics,1,1479.42,New,West,PayPal,1479.42
+ORD00150,2024-01-29,Phone,Electronics,3,685.76,Returning,East,PayPal,2057.28
+ORD00615,2024-01-29,Smartwatch,Electronics,1,466.62,Returning,North,PayPal,466.62
+ORD00802,2024-01-30,Tablet,Electronics,3,722.53,New,South,Debit Card,2167.59
+ORD00960,2024-01-31,Laptop,Electronics,1,218.87,Returning,East,PayPal,218.87
+ORD00115,2024-02-02,Laptop,Electronics,4,384.65,Returning,South,PayPal,1538.6
+ORD00508,2024-02-02,Headphones,Electronics,8,503.92,Returning,East,Debit Card,4031.36
+ORD00306,2024-02-02,Tablet,Electronics,4,874.27,Returning,South,Debit Card,3497.08
+ORD00815,2024-02-03,Headphones,Electronics,8,422.28,Returning,South,PayPal,3378.24
+ORD00855,2024-02-03,Headphones,Electronics,6,1065.63,Returning,North,Debit Card,6393.78
+ORD00762,2024-02-03,Laptop,Accessories,7,1042.71,Returning,West,Debit Card,7298.97
+ORD00928,2024-02-03,Laptop,Electronics,6,731.38,Returning,East,Credit Card,4388.28
+ORD00124,2024-02-04,Smartwatch,Electronics,7,594.39,Returning,West,Debit Card,4160.73
+ORD00524,2024-02-04,Headphones,Electronics,9,1417.6,New,West,Credit Card,12758.4
+ORD00059,2024-02-04,Phone,Accessories,8,1030.38,Returning,South,PayPal,8243.04
+ORD00327,2024-02-04,Phone,Electronics,2,328.85,Returning,North,Credit Card,657.7
+ORD00709,2024-02-04,Headphones,Electronics,4,995.74,New,West,Debit Card,3982.96
+ORD00963,2024-02-05,Smartwatch,Electronics,3,716.03,Returning,East,PayPal,2148.09
+ORD00382,2024-02-05,Laptop,Electronics,2,1413.32,New,South,PayPal,2826.64
+ORD00151,2024-02-05,Laptop,Accessories,9,818.33,Returning,West,Debit Card,7364.97
+ORD00546,2024-02-05,Tablet,Accessories,9,241.99,Returning,East,Debit Card,2177.91
+ORD00338,2024-02-06,Laptop,Electronics,1,552.98,New,West,Debit Card,552.98
+ORD00552,2024-02-06,Smartwatch,Electronics,5,327.14,New,North,PayPal,1635.7
+ORD00268,2024-02-06,Headphones,Electronics,5,59.33,Returning,North,Credit Card,296.65
+ORD00311,2024-02-07,Smartwatch,Electronics,8,1260.85,Returning,East,Credit Card,10086.8
+ORD00996,2024-02-07,Headphones,Accessories,7,404.03,Returning,North,PayPal,2828.21
+ORD00250,2024-02-08,Laptop,Electronics,4,903.95,Returning,South,Debit Card,3615.8
+ORD00909,2024-02-08,Phone,Electronics,6,361.63,Returning,East,Debit Card,2169.78
+ORD00477,2024-02-08,Smartwatch,Accessories,9,792.84,Returning,South,Debit Card,7135.56
+ORD00373,2024-02-08,Tablet,Electronics,6,1089.82,Returning,South,PayPal,6538.92
+ORD00638,2024-02-08,Smartwatch,Accessories,8,1214.13,New,East,Credit Card,9713.04
+ORD00766,2024-02-08,Headphones,Electronics,5,233.09,Returning,East,Credit Card,1165.45
+ORD00586,2024-02-08,Phone,Electronics,3,64.05,New,West,Debit Card,192.15
+ORD00961,2024-02-09,Laptop,Electronics,3,234.29,Returning,West,Debit Card,702.87
+ORD00091,2024-02-10,Smartwatch,Electronics,7,111.4,Returning,South,Debit Card,779.8
+ORD00109,2024-02-10,Phone,Accessories,1,163.91,New,East,Credit Card,163.91
+ORD00700,2024-02-10,Smartwatch,Accessories,1,57.84,Returning,East,Debit Card,57.84
+ORD00137,2024-02-11,Phone,Electronics,6,681.32,New,East,Credit Card,4087.92
+ORD00589,2024-02-11,Phone,Accessories,4,1422.8,New,West,Credit Card,5691.2
+ORD00933,2024-02-11,Phone,Electronics,4,1377.89,Returning,West,Debit Card,5511.56
+ORD00821,2024-02-12,Headphones,Electronics,1,1026.87,New,South,PayPal,1026.87
+ORD00516,2024-02-12,Phone,Accessories,2,506.5,Returning,West,Credit Card,1013.0
+ORD00167,2024-02-13,Tablet,Electronics,8,1352.45,Returning,West,PayPal,10819.6
+ORD00657,2024-02-13,Tablet,Accessories,3,1485.15,Returning,East,PayPal,4455.45
+ORD00517,2024-02-13,Laptop,Electronics,9,112.43,Returning,North,Debit Card,1011.87
+ORD00071,2024-02-13,Headphones,Accessories,6,1298.52,Returning,East,Debit Card,7791.12
+ORD00161,2024-02-14,Tablet,Electronics,3,1248.6,Returning,North,PayPal,3745.8
+ORD00708,2024-02-15,Headphones,Electronics,1,1008.65,Returning,West,PayPal,1008.65
+ORD00854,2024-02-15,Laptop,Electronics,6,1495.02,New,West,Debit Card,8970.12
+ORD00334,2024-02-15,Tablet,Electronics,3,542.67,Returning,North,Credit Card,1628.01
+ORD00862,2024-02-16,Laptop,Electronics,9,1464.01,New,South,Debit Card,13176.09
+ORD00471,2024-02-16,Laptop,Electronics,5,947.9,New,South,Credit Card,4739.5
+ORD00422,2024-02-16,Smartwatch,Accessories,9,373.44,Returning,South,PayPal,3360.96
+ORD00991,2024-02-16,Tablet,Electronics,6,592.02,Returning,West,PayPal,3552.12
+ORD00673,2024-02-16,Laptop,Electronics,4,776.03,New,West,Credit Card,3104.12
+ORD00453,2024-02-17,Headphones,Electronics,9,1373.69,New,North,Debit Card,12363.21
+ORD00870,2024-02-17,Headphones,Accessories,9,586.54,Returning,North,Debit Card,5278.86
+ORD00116,2024-02-17,Laptop,Electronics,4,1377.72,Returning,South,Debit Card,5510.88
+ORD00329,2024-02-18,Smartwatch,Accessories,5,948.44,Returning,West,Credit Card,4742.2
+ORD00030,2024-02-18,Tablet,Accessories,7,1211.95,Returning,East,Debit Card,8483.65
+ORD00062,2024-02-19,Tablet,Electronics,1,875.75,Returning,West,Credit Card,875.75
+ORD00395,2024-02-20,Laptop,Accessories,3,615.67,Returning,East,PayPal,1847.01
+ORD00805,2024-02-20,Tablet,Electronics,3,511.54,Returning,North,Credit Card,1534.62
+ORD00841,2024-02-20,Smartwatch,Electronics,9,1402.19,New,North,PayPal,12619.71
+ORD00314,2024-02-20,Laptop,Electronics,9,511.17,New,West,Debit Card,4600.53
+ORD00037,2024-02-20,Smartwatch,Electronics,2,1443.68,New,East,Debit Card,2887.36
+ORD00757,2024-02-20,Laptop,Electronics,3,1390.22,Returning,East,Credit Card,4170.66
+ORD00198,2024-02-21,Phone,Electronics,2,865.71,Returning,North,Credit Card,1731.42
+ORD00143,2024-02-21,Laptop,Electronics,8,1194.64,Returning,North,PayPal,9557.12
+ORD00576,2024-02-21,Smartwatch,Accessories,1,1253.72,Returning,North,PayPal,1253.72
+ORD00749,2024-02-22,Phone,Accessories,4,927.95,New,South,Credit Card,3711.8
+ORD00413,2024-02-22,Tablet,Electronics,2,574.24,Returning,South,PayPal,1148.48
+ORD00216,2024-02-22,Laptop,Accessories,6,1235.89,Returning,West,Credit Card,7415.34
+ORD00582,2024-02-22,Headphones,Accessories,5,102.1,Returning,South,Debit Card,510.5
+ORD00817,2024-02-22,Headphones,Electronics,7,667.61,Returning,South,PayPal,4673.27
+ORD00086,2024-02-22,Smartwatch,Electronics,8,854.3,Returning,West,Credit Card,6834.4
+ORD00055,2024-02-22,Laptop,Electronics,5,616.36,New,South,Credit Card,3081.8
+ORD00410,2024-02-23,Headphones,Electronics,4,1180.98,Returning,East,Debit Card,4723.92
+ORD00210,2024-02-23,Tablet,Electronics,8,228.69,New,East,PayPal,1829.52
+ORD00774,2024-02-23,Phone,Electronics,4,467.96,New,South,Debit Card,1871.84
+ORD00679,2024-02-23,Headphones,Electronics,3,194.34,Returning,North,Credit Card,583.02
+ORD00356,2024-02-23,Laptop,Electronics,4,545.07,Returning,South,Credit Card,2180.28
+ORD00065,2024-02-23,Phone,Electronics,2,588.65,Returning,West,Debit Card,1177.3
+ORD00278,2024-02-23,Smartwatch,Electronics,8,739.75,New,East,PayPal,5918.0
+ORD00039,2024-02-24,Tablet,Electronics,8,1281.31,Returning,South,Debit Card,10250.48
+ORD00884,2024-02-25,Tablet,Electronics,5,1414.52,Returning,West,PayPal,7072.6
+ORD00866,2024-02-25,Tablet,Electronics,3,960.77,Returning,South,Credit Card,2882.31
+ORD00585,2024-02-26,Smartwatch,Electronics,3,659.01,New,South,PayPal,1977.03
+ORD00645,2024-02-27,Phone,Electronics,1,211.15,Returning,North,Debit Card,211.15
+ORD00357,2024-02-27,Laptop,Electronics,3,700.73,Returning,North,Debit Card,2102.19
+ORD00403,2024-02-27,Smartwatch,Electronics,5,808.56,Returning,West,Debit Card,4042.8
+ORD00656,2024-02-27,Smartwatch,Accessories,7,100.66,Returning,East,Debit Card,704.62
+ORD00445,2024-02-27,Tablet,Electronics,7,1349.03,Returning,North,Debit Card,9443.21
+ORD00437,2024-02-27,Tablet,Electronics,3,366.48,Returning,West,PayPal,1099.44
+ORD00031,2024-02-28,Tablet,Electronics,2,1027.68,Returning,North,Credit Card,2055.36
+ORD00414,2024-02-29,Phone,Accessories,4,183.64,Returning,South,Credit Card,734.56
+ORD00263,2024-02-29,Smartwatch,Electronics,1,1419.77,New,West,Debit Card,1419.77
+ORD00871,2024-03-01,Headphones,Accessories,1,848.18,Returning,East,PayPal,848.18
+ORD00839,2024-03-01,Headphones,Accessories,9,119.73,Returning,South,PayPal,1077.57
+ORD00162,2024-03-02,Laptop,Electronics,5,580.11,New,East,PayPal,2900.55
+ORD00562,2024-03-02,Tablet,Electronics,2,1175.62,Returning,North,Debit Card,2351.24
+ORD00974,2024-03-02,Smartwatch,Electronics,6,1406.3,Returning,South,Credit Card,8437.8
+ORD00117,2024-03-02,Headphones,Electronics,2,943.66,Returning,South,Debit Card,1887.32
+ORD00102,2024-03-03,Phone,Accessories,5,1369.81,Returning,South,Debit Card,6849.05
+ORD00398,2024-03-03,Phone,Electronics,7,365.97,New,North,PayPal,2561.79
+ORD00732,2024-03-03,Headphones,Electronics,1,626.93,New,East,Credit Card,626.93
+ORD00139,2024-03-03,Laptop,Electronics,1,1020.5,Returning,North,PayPal,1020.5
+ORD00513,2024-03-05,Phone,Electronics,8,509.05,Returning,South,PayPal,4072.4
+ORD00095,2024-03-05,Smartwatch,Electronics,7,137.88,Returning,East,Credit Card,965.16
+ORD00724,2024-03-05,Laptop,Accessories,8,1270.92,Returning,East,PayPal,10167.36
+ORD00159,2024-03-06,Tablet,Electronics,6,368.57,Returning,North,PayPal,2211.42
+ORD00785,2024-03-06,Laptop,Accessories,8,1353.24,Returning,South,Debit Card,10825.92
+ORD00921,2024-03-07,Phone,Electronics,5,1324.22,New,North,Debit Card,6621.1
+ORD00299,2024-03-08,Phone,Electronics,7,1376.7,Returning,North,Debit Card,9636.9
+ORD00920,2024-03-08,Headphones,Electronics,3,299.52,New,South,Credit Card,898.56
+ORD00470,2024-03-09,Laptop,Electronics,7,998.53,Returning,North,Credit Card,6989.71
+ORD00579,2024-03-09,Phone,Electronics,3,433.55,Returning,North,Credit Card,1300.65
+ORD00459,2024-03-09,Laptop,Electronics,8,1183.18,New,West,PayPal,9465.44
+ORD00814,2024-03-09,Smartwatch,Electronics,4,880.33,Returning,South,Credit Card,3521.32
+ORD00628,2024-03-10,Phone,Electronics,7,1370.66,Returning,North,Debit Card,9594.62
+ORD00947,2024-03-10,Laptop,Electronics,4,65.22,Returning,South,PayPal,260.88
+ORD00765,2024-03-12,Phone,Accessories,6,234.69,Returning,South,PayPal,1408.14
+ORD00005,2024-03-12,Phone,Electronics,8,1134.37,New,North,PayPal,9074.96
+ORD00859,2024-03-13,Phone,Electronics,3,818.09,Returning,North,PayPal,2454.27
+ORD00603,2024-03-14,Laptop,Electronics,7,331.95,Returning,North,PayPal,2323.65
+ORD00282,2024-03-15,Headphones,Accessories,8,987.57,Returning,South,Debit Card,7900.56
+ORD00786,2024-03-15,Smartwatch,Electronics,4,852.01,Returning,North,Credit Card,3408.04
+ORD00536,2024-03-15,Phone,Accessories,2,861.14,New,North,Debit Card,1722.28
+ORD00968,2024-03-15,Phone,Accessories,7,689.67,Returning,South,PayPal,4827.69
+ORD00601,2024-03-16,Tablet,Electronics,3,241.35,Returning,North,Debit Card,724.05
+ORD00463,2024-03-16,Phone,Electronics,8,1034.84,New,East,Debit Card,8278.72
+ORD00571,2024-03-16,Tablet,Accessories,4,125.97,Returning,North,PayPal,503.88
+ORD00856,2024-03-18,Smartwatch,Accessories,1,1167.15,Returning,East,PayPal,1167.15
+ORD00755,2024-03-18,Phone,Electronics,8,1146.68,Returning,North,PayPal,9173.44
+ORD00888,2024-03-18,Headphones,Electronics,7,50.27,New,South,PayPal,351.89
+ORD00664,2024-03-20,Laptop,Electronics,6,1154.43,New,North,Credit Card,6926.58
+ORD00061,2024-03-21,Tablet,Electronics,9,889.32,Returning,East,Credit Card,8003.88
+ORD00104,2024-03-21,Tablet,Electronics,5,1432.63,Returning,West,PayPal,7163.15
+ORD00806,2024-03-21,Tablet,Electronics,4,759.1,Returning,West,Debit Card,3036.4
+ORD00204,2024-03-21,Laptop,Accessories,6,1001.28,Returning,East,Credit Card,6007.68
+ORD00711,2024-03-22,Laptop,Electronics,6,993.12,Returning,South,PayPal,5958.72
+ORD00932,2024-03-23,Tablet,Electronics,4,1197.54,New,North,PayPal,4790.16
+ORD00752,2024-03-23,Phone,Accessories,6,941.0,New,West,PayPal,5646.0
+ORD00563,2024-03-24,Phone,Accessories,1,239.23,New,North,Credit Card,239.23
+ORD00754,2024-03-25,Phone,Electronics,7,417.77,New,East,Credit Card,2924.39
+ORD00466,2024-03-26,Smartwatch,Accessories,3,922.44,New,West,Debit Card,2767.32
+ORD00157,2024-03-26,Phone,Accessories,3,350.55,Returning,West,Credit Card,1051.65
+ORD00912,2024-03-26,Tablet,Electronics,3,192.96,Returning,South,PayPal,578.88
+ORD00012,2024-03-28,Headphones,Accessories,5,1245.27,New,North,Debit Card,6226.35
+ORD00454,2024-03-29,Laptop,Accessories,4,870.25,Returning,South,Credit Card,3481.0
+ORD00049,2024-03-29,Phone,Electronics,7,242.33,Returning,North,Debit Card,1696.31
+ORD00692,2024-03-30,Smartwatch,Electronics,6,467.36,Returning,South,Credit Card,2804.16
+ORD00527,2024-03-30,Tablet,Electronics,6,1163.79,New,South,PayPal,6982.74
+ORD00993,2024-03-30,Laptop,Electronics,1,67.89,Returning,South,Debit Card,67.89
+ORD00530,2024-03-30,Tablet,Electronics,9,411.78,New,South,PayPal,3706.02
+ORD00634,2024-03-31,Headphones,Electronics,7,298.38,New,North,PayPal,2088.66
+ORD00844,2024-04-01,Laptop,Electronics,4,628.79,Returning,East,PayPal,2515.16
+ORD00389,2024-04-01,Laptop,Accessories,4,1039.12,Returning,South,PayPal,4156.48
+ORD00436,2024-04-01,Phone,Electronics,3,809.2,Returning,South,PayPal,2427.6
+ORD00057,2024-04-01,Laptop,Electronics,5,975.57,New,South,PayPal,4877.85
+ORD00529,2024-04-02,Tablet,Electronics,1,678.97,Returning,West,Debit Card,678.97
+ORD00837,2024-04-02,Phone,Accessories,7,737.54,Returning,West,Credit Card,5162.78
+ORD00973,2024-04-03,Laptop,Accessories,5,366.35,Returning,South,Credit Card,1831.75
+ORD00472,2024-04-03,Laptop,Electronics,8,531.56,Returning,South,PayPal,4252.48
+ORD00954,2024-04-04,Phone,Electronics,4,68.72,Returning,West,PayPal,274.88
+ORD00343,2024-04-04,Tablet,Electronics,3,504.09,Returning,North,Credit Card,1512.27
+ORD00828,2024-04-04,Smartwatch,Accessories,3,849.02,New,South,Debit Card,2547.06
+ORD00520,2024-04-04,Smartwatch,Electronics,9,693.66,New,South,PayPal,6242.94
+ORD00764,2024-04-04,Laptop,Electronics,1,1264.03,Returning,East,Credit Card,1264.03
+ORD00193,2024-04-05,Smartwatch,Accessories,7,1488.07,Returning,North,Credit Card,10416.49
+ORD00494,2024-04-05,Phone,Electronics,6,453.24,Returning,East,PayPal,2719.44
+ORD00547,2024-04-05,Smartwatch,Accessories,9,604.27,Returning,West,PayPal,5438.43
+ORD00144,2024-04-05,Smartwatch,Electronics,9,653.52,New,East,Credit Card,5881.68
+ORD00450,2024-04-05,Smartwatch,Electronics,9,276.25,Returning,West,Credit Card,2486.25
+ORD00234,2024-04-06,Headphones,Accessories,2,886.09,Returning,West,Debit Card,1772.18
+ORD00321,2024-04-06,Tablet,Electronics,9,531.7,New,South,Credit Card,4785.3
+ORD00230,2024-04-07,Headphones,Electronics,5,761.61,Returning,North,Debit Card,3808.05
+ORD00793,2024-04-07,Smartwatch,Electronics,1,746.07,Returning,North,Credit Card,746.07
+ORD00738,2024-04-07,Phone,Electronics,5,842.71,New,North,Credit Card,4213.55
+ORD00336,2024-04-08,Phone,Electronics,8,1033.27,New,North,Credit Card,8266.16
+ORD00289,2024-04-08,Tablet,Accessories,8,453.78,Returning,North,Credit Card,3630.24
+ORD00344,2024-04-08,Headphones,Electronics,8,1281.82,New,East,Debit Card,10254.56
+ORD00257,2024-04-08,Headphones,Electronics,2,434.79,New,North,PayPal,869.58
+ORD00545,2024-04-08,Headphones,Electronics,2,688.83,New,North,Debit Card,1377.66
+ORD00272,2024-04-08,Laptop,Electronics,3,1152.62,Returning,North,PayPal,3457.86
+ORD00120,2024-04-08,Headphones,Electronics,5,915.33,Returning,South,Debit Card,4576.65
+ORD00740,2024-04-08,Laptop,Electronics,8,234.85,Returning,West,Credit Card,1878.8
+ORD00580,2024-04-08,Headphones,Accessories,5,455.84,Returning,South,PayPal,2279.2
+ORD00478,2024-04-09,Smartwatch,Electronics,9,1171.68,Returning,East,Debit Card,10545.12
+ORD00488,2024-04-09,Tablet,Electronics,5,1353.93,Returning,West,PayPal,6769.65
+ORD00013,2024-04-09,Laptop,Accessories,2,963.56,Returning,South,Credit Card,1927.12
+ORD00569,2024-04-09,Headphones,Accessories,2,543.79,Returning,South,PayPal,1087.58
+ORD00510,2024-04-10,Laptop,Electronics,5,122.81,Returning,South,Debit Card,614.05
+ORD00202,2024-04-10,Phone,Accessories,6,808.0,Returning,West,Credit Card,4848.0
+ORD00934,2024-04-10,Headphones,Electronics,9,571.7,Returning,West,Credit Card,5145.3
+ORD00126,2024-04-10,Laptop,Electronics,2,1332.65,Returning,South,Credit Card,2665.3
+ORD00411,2024-04-10,Tablet,Electronics,4,193.17,Returning,East,PayPal,772.68
+ORD00417,2024-04-12,Headphones,Electronics,1,1348.76,Returning,North,Debit Card,1348.76
+ORD00787,2024-04-12,Tablet,Electronics,1,1227.77,Returning,South,Debit Card,1227.77
+ORD00008,2024-04-12,Headphones,Electronics,3,722.79,Returning,North,Debit Card,2168.37
+ORD00001,2024-04-12,Tablet,Electronics,7,719.21,Returning,East,PayPal,5034.47
+ORD00369,2024-04-13,Headphones,Electronics,1,1187.1,New,South,Debit Card,1187.1
+ORD00284,2024-04-13,Phone,Accessories,9,1021.55,Returning,South,Debit Card,9193.95
+ORD00532,2024-04-14,Smartwatch,Electronics,4,447.86,Returning,South,Debit Card,1791.44
+ORD00739,2024-04-14,Headphones,Accessories,2,1267.74,Returning,South,PayPal,2535.48
+ORD00066,2024-04-15,Headphones,Electronics,8,946.86,Returning,West,Debit Card,7574.88
+ORD00429,2024-04-15,Laptop,Electronics,9,1200.68,New,South,PayPal,10806.12
+ORD00804,2024-04-15,Phone,Electronics,3,740.87,Returning,North,Credit Card,2222.61
+ORD00868,2024-04-16,Smartwatch,Accessories,8,1030.35,Returning,North,Debit Card,8242.8
+ORD00004,2024-04-16,Phone,Electronics,1,1171.81,Returning,East,PayPal,1171.81
+ORD00166,2024-04-17,Tablet,Electronics,9,296.67,Returning,West,Credit Card,2670.03
+ORD00415,2024-04-17,Laptop,Accessories,1,898.36,Returning,South,Debit Card,898.36
+ORD00587,2024-04-18,Laptop,Electronics,9,1294.03,Returning,South,Debit Card,11646.27
+ORD00923,2024-04-18,Smartwatch,Electronics,8,1311.41,Returning,West,Debit Card,10491.28
+ORD00925,2024-04-20,Tablet,Electronics,3,940.88,New,West,Credit Card,2822.64
+ORD00823,2024-04-20,Laptop,Electronics,1,495.92,Returning,West,Debit Card,495.92
+ORD00927,2024-04-20,Phone,Electronics,8,512.73,New,East,Credit Card,4101.84
+ORD00897,2024-04-20,Laptop,Accessories,1,336.58,Returning,West,Debit Card,336.58
+ORD00929,2024-04-20,Phone,Electronics,6,778.61,Returning,South,PayPal,4671.66
+ORD00288,2024-04-21,Smartwatch,Accessories,4,958.17,Returning,West,Debit Card,3832.68
+ORD00779,2024-04-21,Phone,Accessories,6,853.82,Returning,South,Debit Card,5122.92
+ORD00948,2024-04-21,Phone,Electronics,2,1347.84,Returning,West,PayPal,2695.68
+ORD00262,2024-04-21,Phone,Electronics,9,1425.33,Returning,West,Credit Card,12827.97
+ORD00203,2024-04-22,Headphones,Electronics,8,732.76,Returning,West,PayPal,5862.08
+ORD00877,2024-04-22,Smartwatch,Electronics,2,726.76,Returning,South,Debit Card,1453.52
+ORD00201,2024-04-22,Phone,Accessories,6,72.94,Returning,South,Credit Card,437.64
+ORD00283,2024-04-22,Phone,Electronics,3,378.77,Returning,West,PayPal,1136.31
+ORD00206,2024-04-22,Tablet,Electronics,4,1046.21,Returning,South,PayPal,4184.84
+ORD00989,2024-04-22,Tablet,Accessories,9,1263.99,New,West,PayPal,11375.91
+ORD00196,2024-04-22,Smartwatch,Electronics,5,115.19,Returning,North,Debit Card,575.95
+ORD00535,2024-04-23,Laptop,Electronics,8,1332.31,Returning,North,Debit Card,10658.48
+ORD00362,2024-04-23,Phone,Accessories,2,1361.91,New,East,PayPal,2723.82
+ORD00531,2024-04-24,Headphones,Accessories,3,843.83,Returning,East,PayPal,2531.49
+ORD00346,2024-04-25,Laptop,Electronics,5,1487.96,Returning,West,Debit Card,7439.8
+ORD00281,2024-04-25,Tablet,Electronics,4,115.91,Returning,South,Credit Card,463.64
+ORD00178,2024-04-25,Smartwatch,Electronics,9,1181.81,Returning,East,PayPal,10636.29
+ORD00654,2024-04-26,Laptop,Electronics,1,825.97,New,East,Credit Card,825.97
+ORD00440,2024-04-26,Tablet,Electronics,7,249.93,Returning,South,Credit Card,1749.51
+ORD00770,2024-04-27,Tablet,Electronics,5,773.51,New,North,PayPal,3867.55
+ORD00983,2024-04-27,Headphones,Electronics,2,743.59,New,North,Credit Card,1487.18
+ORD00972,2024-04-27,Laptop,Accessories,5,148.76,New,West,PayPal,743.8
+ORD00452,2024-04-27,Laptop,Electronics,7,569.59,Returning,West,Debit Card,3987.13
+ORD00906,2024-04-28,Laptop,Electronics,8,105.23,Returning,South,Credit Card,841.84
+ORD00722,2024-04-28,Tablet,Accessories,9,952.96,New,East,PayPal,8576.64
+ORD00279,2024-04-29,Laptop,Electronics,8,1027.88,New,South,Credit Card,8223.04
+ORD00433,2024-04-29,Smartwatch,Electronics,3,259.25,Returning,North,Credit Card,777.75
+ORD00177,2024-04-30,Phone,Electronics,9,743.82,Returning,East,Credit Card,6694.38
+ORD00863,2024-04-30,Laptop,Electronics,7,1258.15,Returning,South,Debit Card,8807.05
+ORD00592,2024-05-01,Smartwatch,Electronics,8,409.42,Returning,West,PayPal,3275.36
+ORD00446,2024-05-01,Headphones,Electronics,4,1201.2,Returning,North,Credit Card,4804.8
+ORD00689,2024-05-01,Headphones,Electronics,3,923.58,Returning,East,Debit Card,2770.74
+ORD00009,2024-05-01,Phone,Accessories,2,432.81,Returning,North,Debit Card,865.62
+ORD00840,2024-05-01,Tablet,Accessories,6,478.71,Returning,West,Credit Card,2872.26
+ORD00612,2024-05-01,Phone,Electronics,5,330.21,Returning,West,Credit Card,1651.05
+ORD00225,2024-05-02,Laptop,Electronics,9,455.15,Returning,North,Credit Card,4096.35
+ORD00236,2024-05-03,Smartwatch,Electronics,1,588.2,Returning,North,Credit Card,588.2
+ORD00428,2024-05-03,Smartwatch,Accessories,8,664.14,Returning,South,Credit Card,5313.12
+ORD00400,2024-05-04,Phone,Accessories,3,893.05,Returning,East,Debit Card,2679.15
+ORD00644,2024-05-05,Tablet,Electronics,8,227.06,Returning,East,Debit Card,1816.48
+ORD00913,2024-05-05,Smartwatch,Electronics,6,218.89,Returning,North,PayPal,1313.34
+ORD00451,2024-05-05,Headphones,Electronics,3,1260.16,Returning,South,Credit Card,3780.48
+ORD00214,2024-05-05,Phone,Electronics,2,1359.78,Returning,South,Debit Card,2719.56
+ORD00639,2024-05-05,Headphones,Electronics,4,407.45,New,South,PayPal,1629.8
+ORD00819,2024-05-05,Headphones,Electronics,5,184.13,Returning,South,Debit Card,920.65
+ORD00366,2024-05-06,Phone,Electronics,4,476.69,New,North,PayPal,1906.76
+ORD00443,2024-05-06,Phone,Electronics,5,1130.51,Returning,South,Credit Card,5652.55
+ORD00883,2024-05-06,Headphones,Electronics,1,215.5,New,East,Debit Card,215.5
+ORD00352,2024-05-07,Phone,Electronics,6,289.08,Returning,South,Debit Card,1734.48
+ORD00249,2024-05-07,Phone,Electronics,1,806.83,New,West,Debit Card,806.83
+ORD00305,2024-05-07,Laptop,Electronics,8,130.51,New,North,PayPal,1044.08
+ORD00171,2024-05-07,Laptop,Electronics,5,443.48,Returning,West,PayPal,2217.4
+ORD00253,2024-05-08,Tablet,Electronics,8,920.41,Returning,East,PayPal,7363.28
+ORD00100,2024-05-08,Headphones,Electronics,9,709.57,Returning,South,PayPal,6386.13
+ORD00444,2024-05-08,Tablet,Accessories,4,160.84,Returning,North,Credit Card,643.36
+ORD00208,2024-05-09,Laptop,Electronics,2,219.67,Returning,East,Credit Card,439.34
+ORD00215,2024-05-09,Headphones,Accessories,3,1340.33,Returning,West,PayPal,4020.99
+ORD00276,2024-05-10,Laptop,Electronics,7,594.92,Returning,North,Credit Card,4164.44
+ORD00016,2024-05-10,Laptop,Electronics,7,672.03,Returning,East,Debit Card,4704.21
+ORD00042,2024-05-10,Smartwatch,Electronics,9,166.32,Returning,South,PayPal,1496.88
+ORD00127,2024-05-10,Headphones,Electronics,7,231.57,New,South,Credit Card,1620.99
+ORD00626,2024-05-11,Phone,Accessories,5,352.45,New,West,Credit Card,1762.25
+ORD00807,2024-05-12,Smartwatch,Accessories,5,1296.36,New,East,PayPal,6481.8
+ORD00745,2024-05-12,Smartwatch,Accessories,7,1487.61,New,North,PayPal,10413.27
+ORD00593,2024-05-12,Phone,Electronics,6,1061.69,Returning,West,Debit Card,6370.14
+ORD00850,2024-05-12,Phone,Electronics,2,246.75,Returning,South,PayPal,493.5
+ORD00981,2024-05-12,Phone,Accessories,1,651.93,New,North,Credit Card,651.93
+ORD00655,2024-05-13,Smartwatch,Accessories,1,168.93,Returning,East,PayPal,168.93
+ORD00971,2024-05-13,Laptop,Electronics,4,780.14,Returning,East,Credit Card,3120.56
+ORD00163,2024-05-13,Tablet,Electronics,1,562.86,Returning,North,Credit Card,562.86
+ORD00111,2024-05-14,Headphones,Electronics,7,187.62,Returning,East,Debit Card,1313.34
+ORD00303,2024-05-14,Smartwatch,Electronics,5,935.62,Returning,South,Credit Card,4678.1
+ORD00044,2024-05-14,Tablet,Accessories,3,72.83,New,South,Debit Card,218.49
+ORD00618,2024-05-15,Headphones,Electronics,5,1011.05,Returning,East,PayPal,5055.25
+ORD00693,2024-05-15,Smartwatch,Electronics,3,185.24,Returning,East,Credit Card,555.72
+ORD00101,2024-05-15,Headphones,Electronics,5,1044.27,Returning,West,Debit Card,5221.35
+ORD00957,2024-05-16,Tablet,Electronics,5,559.74,New,East,Credit Card,2798.7
+ORD00183,2024-05-16,Laptop,Electronics,5,1319.34,Returning,North,Credit Card,6596.7
+ORD00809,2024-05-17,Laptop,Accessories,4,1057.25,New,East,Credit Card,4229.0
+ORD00103,2024-05-18,Tablet,Electronics,3,976.6,Returning,North,Credit Card,2929.8
+ORD00998,2024-05-18,Smartwatch,Electronics,7,608.4,New,South,Debit Card,4258.8
+ORD00267,2024-05-19,Phone,Electronics,9,905.42,Returning,West,Credit Card,8148.78
+ORD00990,2024-05-19,Smartwatch,Electronics,3,837.35,New,West,Credit Card,2512.05
+ORD00641,2024-05-20,Tablet,Accessories,2,549.99,Returning,West,PayPal,1099.98
+ORD00608,2024-05-20,Tablet,Accessories,8,510.45,Returning,East,Debit Card,4083.6
+ORD00994,2024-05-21,Smartwatch,Electronics,5,257.29,Returning,West,PayPal,1286.45
+ORD00387,2024-05-21,Laptop,Electronics,9,754.44,Returning,East,Debit Card,6789.96
+ORD00388,2024-05-22,Smartwatch,Accessories,3,219.54,New,East,PayPal,658.62
+ORD00677,2024-05-22,Laptop,Accessories,2,454.46,New,West,Credit Card,908.92
+ORD00148,2024-05-22,Laptop,Electronics,9,1416.46,Returning,West,Debit Card,12748.14
+ORD00681,2024-05-23,Smartwatch,Electronics,9,809.22,Returning,West,PayPal,7282.98
+ORD00426,2024-05-23,Laptop,Electronics,6,863.82,Returning,North,PayPal,5182.92
+ORD00578,2024-05-23,Smartwatch,Electronics,8,491.67,New,South,PayPal,3933.36
+ORD00584,2024-05-23,Tablet,Electronics,8,359.86,Returning,East,Debit Card,2878.88
+ORD00260,2024-05-23,Smartwatch,Electronics,7,476.23,Returning,North,Credit Card,3333.61
+ORD00465,2024-05-23,Phone,Accessories,4,660.1,New,North,Credit Card,2640.4
+ORD00233,2024-05-23,Tablet,Electronics,8,925.58,Returning,South,Debit Card,7404.64
+ORD00432,2024-05-24,Laptop,Electronics,8,398.1,New,South,PayPal,3184.8
+ORD00703,2024-05-24,Tablet,Electronics,7,257.92,Returning,North,Debit Card,1805.44
+ORD00753,2024-05-24,Phone,Electronics,1,892.73,Returning,South,Credit Card,892.73
+ORD00916,2024-05-24,Smartwatch,Electronics,3,818.46,Returning,North,PayPal,2455.38
+ORD00622,2024-05-24,Tablet,Electronics,2,752.37,New,West,Debit Card,1504.74
+ORD00599,2024-05-25,Phone,Electronics,8,870.8,Returning,North,PayPal,6966.4
+ORD00924,2024-05-25,Phone,Accessories,2,588.74,Returning,North,PayPal,1177.48
+ORD00725,2024-05-25,Laptop,Accessories,1,749.93,Returning,North,Debit Card,749.93
+ORD00431,2024-05-26,Phone,Electronics,5,1183.97,New,West,PayPal,5919.85
+ORD00273,2024-05-26,Phone,Electronics,9,793.74,Returning,North,Credit Card,7143.66
+ORD00493,2024-05-26,Smartwatch,Electronics,4,829.79,Returning,South,Credit Card,3319.16
+ORD00244,2024-05-26,Tablet,Electronics,4,539.59,Returning,East,Credit Card,2158.36
+ORD00671,2024-05-26,Headphones,Electronics,4,947.22,New,West,Debit Card,3788.88
+ORD00325,2024-05-26,Headphones,Electronics,2,916.07,Returning,South,Credit Card,1832.14
+ORD00245,2024-05-27,Headphones,Accessories,8,1483.36,Returning,North,PayPal,11866.88
+ORD00241,2024-05-27,Smartwatch,Electronics,6,539.35,Returning,South,PayPal,3236.1
+ORD00646,2024-05-27,Phone,Electronics,2,989.75,Returning,South,PayPal,1979.5
+ORD00663,2024-05-28,Tablet,Electronics,6,560.12,Returning,North,Debit Card,3360.72
+ORD00401,2024-05-29,Smartwatch,Accessories,4,203.49,New,East,PayPal,813.96
+ORD00944,2024-05-29,Smartwatch,Electronics,8,730.8,Returning,East,PayPal,5846.4
+ORD00017,2024-05-29,Laptop,Electronics,3,341.54,Returning,West,Credit Card,1024.62
+ORD00255,2024-05-30,Phone,Accessories,5,595.97,New,North,Credit Card,2979.85
+ORD00365,2024-05-30,Tablet,Accessories,8,306.93,Returning,West,Credit Card,2455.44
+ORD00549,2024-05-30,Phone,Electronics,6,708.88,New,West,PayPal,4253.28
+ORD00825,2024-05-30,Laptop,Electronics,5,1204.94,New,West,Credit Card,6024.7
+ORD00583,2024-05-30,Smartwatch,Accessories,6,1394.03,Returning,South,Credit Card,8364.18
+ORD00548,2024-05-31,Phone,Electronics,6,948.05,Returning,West,PayPal,5688.3
+ORD00190,2024-05-31,Tablet,Electronics,2,326.55,New,North,Credit Card,653.1
+ORD00505,2024-05-31,Laptop,Electronics,6,510.66,Returning,North,PayPal,3063.96
+ORD00015,2024-05-31,Laptop,Accessories,4,1186.47,Returning,East,Credit Card,4745.88
+ORD00955,2024-05-31,Laptop,Electronics,8,378.7,New,West,PayPal,3029.6
+ORD00277,2024-05-31,Phone,Accessories,9,1076.78,Returning,East,Debit Card,9691.02
+ORD00290,2024-06-01,Phone,Electronics,9,1286.82,Returning,North,Credit Card,11581.38
+ORD00396,2024-06-01,Smartwatch,Electronics,1,564.94,Returning,South,Credit Card,564.94
+ORD00767,2024-06-02,Phone,Accessories,9,1229.48,New,West,PayPal,11065.32
+ORD00891,2024-06-02,Tablet,Electronics,3,713.29,Returning,North,Credit Card,2139.87
+ORD00464,2024-06-02,Headphones,Electronics,8,161.02,Returning,East,PayPal,1288.16
+ORD00367,2024-06-03,Smartwatch,Electronics,1,216.46,Returning,South,Debit Card,216.46
+ORD00836,2024-06-03,Tablet,Electronics,1,1464.44,Returning,North,Credit Card,1464.44
+ORD00687,2024-06-04,Headphones,Accessories,4,1182.33,Returning,West,PayPal,4729.32
+ORD00092,2024-06-05,Smartwatch,Electronics,8,890.6,New,South,Credit Card,7124.8
+ORD00310,2024-06-06,Laptop,Accessories,6,1291.92,Returning,South,PayPal,7751.52
+ORD00430,2024-06-06,Smartwatch,Electronics,4,96.08,Returning,West,Debit Card,384.32
+ORD00333,2024-06-06,Laptop,Electronics,2,1373.75,Returning,West,PayPal,2747.5
+ORD00659,2024-06-08,Phone,Electronics,9,694.57,New,West,Credit Card,6251.13
+ORD00192,2024-06-08,Tablet,Electronics,9,843.49,New,West,Debit Card,7591.41
+ORD00269,2024-06-08,Laptop,Electronics,4,1170.15,Returning,West,Credit Card,4680.6
+ORD00838,2024-06-08,Smartwatch,Accessories,3,146.71,New,West,Debit Card,440.13
+ORD00503,2024-06-08,Smartwatch,Electronics,3,1079.67,Returning,South,Credit Card,3239.01
+ORD00153,2024-06-08,Headphones,Electronics,4,290.73,New,West,Debit Card,1162.92
+ORD00219,2024-06-08,Smartwatch,Electronics,6,793.7,New,East,Debit Card,4762.2
+ORD00349,2024-06-09,Tablet,Electronics,3,1411.54,Returning,East,PayPal,4234.62
+ORD00298,2024-06-09,Laptop,Electronics,1,1171.4,New,East,Credit Card,1171.4
+ORD00280,2024-06-09,Laptop,Accessories,6,1156.2,New,South,PayPal,6937.2
+ORD00024,2024-06-09,Phone,Accessories,1,1228.43,Returning,South,Debit Card,1228.43
+ORD00769,2024-06-10,Headphones,Electronics,8,717.97,Returning,North,PayPal,5743.76
+ORD00072,2024-06-10,Smartwatch,Accessories,3,718.69,New,East,PayPal,2156.07
+ORD00295,2024-06-11,Phone,Accessories,2,362.48,Returning,North,PayPal,724.96
+ORD00594,2024-06-11,Headphones,Electronics,3,577.96,Returning,North,Debit Card,1733.88
+ORD00507,2024-06-11,Tablet,Accessories,7,430.4,Returning,North,Debit Card,3012.8
+ORD00105,2024-06-11,Smartwatch,Accessories,3,1328.34,New,East,Debit Card,3985.02
+ORD00540,2024-06-12,Laptop,Accessories,1,520.3,Returning,West,Debit Card,520.3
+ORD00691,2024-06-12,Laptop,Accessories,5,138.46,Returning,West,Credit Card,692.3
+ORD00669,2024-06-12,Smartwatch,Accessories,9,679.82,Returning,East,Credit Card,6118.38
+ORD00750,2024-06-13,Phone,Electronics,8,496.44,Returning,East,PayPal,3971.52
+ORD00616,2024-06-13,Smartwatch,Electronics,5,455.63,Returning,North,Credit Card,2278.15
+ORD00185,2024-06-13,Headphones,Accessories,5,1477.14,Returning,South,Credit Card,7385.7
+ORD00800,2024-06-14,Laptop,Electronics,2,145.43,Returning,North,PayPal,290.86
+ORD00047,2024-06-15,Laptop,Accessories,1,1073.93,Returning,North,PayPal,1073.93
+ORD00633,2024-06-15,Headphones,Accessories,7,232.07,Returning,East,PayPal,1624.49
+ORD00609,2024-06-16,Tablet,Electronics,1,426.11,New,West,PayPal,426.11
+ORD00514,2024-06-16,Tablet,Electronics,1,464.26,New,West,Credit Card,464.26
+ORD00297,2024-06-17,Smartwatch,Electronics,9,725.24,Returning,South,PayPal,6527.16
+ORD00407,2024-06-18,Tablet,Accessories,7,1416.86,Returning,East,Debit Card,9918.02
+ORD00160,2024-06-18,Phone,Electronics,8,79.76,Returning,East,Credit Card,638.08
+ORD00845,2024-06-18,Tablet,Accessories,7,917.96,New,North,Credit Card,6425.72
+ORD00032,2024-06-18,Laptop,Electronics,6,58.29,New,North,PayPal,349.74
+ORD00374,2024-06-18,Smartwatch,Electronics,6,1291.39,New,East,Debit Card,7748.34
+ORD00610,2024-06-18,Phone,Electronics,1,177.01,Returning,South,Credit Card,177.01
+ORD00149,2024-06-19,Smartwatch,Accessories,1,158.49,Returning,South,PayPal,158.49
+ORD00189,2024-06-20,Smartwatch,Electronics,3,577.52,Returning,South,PayPal,1732.56
+ORD00217,2024-06-20,Headphones,Electronics,5,789.72,Returning,North,Credit Card,3948.6
+ORD00121,2024-06-20,Headphones,Electronics,8,777.28,New,East,Credit Card,6218.24
+ORD00331,2024-06-20,Tablet,Accessories,6,784.18,Returning,North,PayPal,4705.08
+ORD00658,2024-06-21,Headphones,Electronics,2,93.53,New,East,PayPal,187.06
+ORD00383,2024-06-21,Laptop,Accessories,7,925.51,Returning,East,PayPal,6478.57
+ORD00758,2024-06-21,Tablet,Electronics,1,522.44,Returning,North,PayPal,522.44
+ORD00640,2024-06-21,Smartwatch,Accessories,8,1465.25,New,East,Debit Card,11722.0
+ORD00979,2024-06-21,Tablet,Electronics,8,1306.12,New,North,Debit Card,10448.96
+ORD00660,2024-06-21,Headphones,Electronics,3,781.7,Returning,East,Credit Card,2345.1
+ORD00607,2024-06-22,Smartwatch,Electronics,4,371.58,Returning,East,Debit Card,1486.32
+ORD00360,2024-06-22,Smartwatch,Electronics,5,57.29,Returning,South,Debit Card,286.45
+ORD00036,2024-06-23,Laptop,Electronics,5,511.25,Returning,South,Debit Card,2556.25
+ORD00307,2024-06-24,Phone,Electronics,1,994.7,Returning,East,Credit Card,994.7
+ORD00372,2024-06-24,Headphones,Electronics,2,411.71,New,West,Credit Card,823.42
+ORD00728,2024-06-25,Tablet,Electronics,2,1100.17,Returning,North,Credit Card,2200.34
+ORD00737,2024-06-25,Phone,Electronics,9,575.99,Returning,North,Debit Card,5183.91
+ORD00544,2024-06-25,Phone,Electronics,1,1239.62,New,East,PayPal,1239.62
+ORD00568,2024-06-25,Tablet,Electronics,1,1051.09,Returning,South,Credit Card,1051.09
+ORD00506,2024-06-26,Laptop,Electronics,4,1454.58,New,West,Debit Card,5818.32
+ORD00696,2024-06-26,Headphones,Electronics,6,270.07,Returning,West,Debit Card,1620.42
+ORD00138,2024-06-27,Headphones,Accessories,6,624.14,New,East,Credit Card,3744.84
+ORD00509,2024-06-27,Phone,Electronics,6,1262.92,Returning,South,Debit Card,7577.52
+ORD00880,2024-06-28,Laptop,Electronics,6,138.6,Returning,North,Debit Card,831.6
+ORD00490,2024-06-28,Smartwatch,Electronics,3,693.97,Returning,North,Debit Card,2081.91
+ORD00936,2024-06-28,Smartwatch,Electronics,2,333.04,Returning,South,Debit Card,666.08
+ORD00195,2024-06-28,Smartwatch,Accessories,2,338.91,New,North,Credit Card,677.82
+ORD00406,2024-06-28,Phone,Electronics,1,862.84,New,North,PayPal,862.84
+ORD00342,2024-06-29,Tablet,Electronics,4,256.27,Returning,South,PayPal,1025.08
+ORD00588,2024-06-29,Tablet,Electronics,4,1110.18,Returning,North,PayPal,4440.72
+ORD00632,2024-06-30,Smartwatch,Electronics,6,641.19,Returning,West,Debit Card,3847.14
+ORD00554,2024-07-01,Smartwatch,Electronics,1,674.93,New,East,PayPal,674.93
+ORD00826,2024-07-01,Headphones,Electronics,9,387.18,Returning,North,Debit Card,3484.62
+ORD00831,2024-07-02,Phone,Accessories,6,482.21,New,East,Debit Card,2893.26
+ORD00224,2024-07-02,Smartwatch,Electronics,3,1125.32,New,North,Debit Card,3375.96
+ORD00810,2024-07-02,Headphones,Accessories,8,578.77,Returning,South,PayPal,4630.16
+ORD00467,2024-07-03,Laptop,Accessories,2,1408.81,Returning,West,Debit Card,2817.62
+ORD00694,2024-07-04,Tablet,Electronics,5,1447.54,New,North,PayPal,7237.7
+ORD00397,2024-07-04,Phone,Electronics,9,115.61,Returning,East,Debit Card,1040.49
+ORD00590,2024-07-04,Phone,Electronics,7,1183.34,Returning,East,Credit Card,8283.38
+ORD00155,2024-07-05,Phone,Electronics,2,62.62,New,East,Debit Card,125.24
+ORD00566,2024-07-05,Smartwatch,Electronics,3,1205.96,Returning,North,Credit Card,3617.88
+ORD00205,2024-07-05,Phone,Accessories,1,861.39,New,East,Credit Card,861.39
+ORD00237,2024-07-05,Smartwatch,Electronics,4,1189.18,Returning,East,Debit Card,4756.72
+ORD00893,2024-07-05,Smartwatch,Electronics,1,710.31,Returning,South,PayPal,710.31
+ORD00345,2024-07-06,Tablet,Accessories,9,179.04,New,South,Credit Card,1611.36
+ORD00090,2024-07-06,Smartwatch,Electronics,8,346.04,Returning,South,Credit Card,2768.32
+ORD00033,2024-07-06,Headphones,Electronics,6,725.45,Returning,South,Debit Card,4352.7
+ORD00457,2024-07-07,Headphones,Accessories,1,885.89,Returning,West,Credit Card,885.89
+ORD00006,2024-07-07,Smartwatch,Electronics,7,268.38,New,West,Credit Card,1878.66
+ORD00550,2024-07-08,Smartwatch,Accessories,4,1181.27,Returning,East,PayPal,4725.08
+ORD00080,2024-07-08,Phone,Accessories,1,1391.32,New,West,Credit Card,1391.32
+ORD00399,2024-07-08,Laptop,Accessories,1,72.01,New,East,Debit Card,72.01
+ORD00651,2024-07-08,Laptop,Electronics,2,203.11,New,North,Debit Card,406.22
+ORD00174,2024-07-08,Tablet,Electronics,8,1074.68,Returning,West,PayPal,8597.44
+ORD00035,2024-07-08,Tablet,Electronics,6,490.84,New,West,Debit Card,2945.04
+ORD00069,2024-07-09,Headphones,Electronics,2,692.44,Returning,South,PayPal,1384.88
+ORD00347,2024-07-09,Tablet,Electronics,9,834.45,Returning,East,Debit Card,7510.05
+ORD00652,2024-07-09,Tablet,Electronics,4,115.68,Returning,South,Debit Card,462.72
+ORD00905,2024-07-10,Phone,Electronics,8,1029.65,New,East,Debit Card,8237.2
+ORD00022,2024-07-10,Headphones,Electronics,1,186.77,Returning,South,Debit Card,186.77
+ORD00542,2024-07-10,Tablet,Accessories,7,355.79,New,South,PayPal,2490.53
+ORD00458,2024-07-10,Smartwatch,Electronics,3,1154.73,Returning,North,PayPal,3464.19
+ORD00702,2024-07-10,Phone,Accessories,4,598.25,New,West,Credit Card,2393.0
+ORD00328,2024-07-10,Smartwatch,Accessories,5,478.7,Returning,North,Credit Card,2393.5
+ORD00788,2024-07-10,Phone,Electronics,7,606.86,Returning,North,Debit Card,4248.02
+ORD00293,2024-07-12,Headphones,Electronics,8,1204.21,Returning,North,Credit Card,9633.68
+ORD00975,2024-07-12,Laptop,Electronics,6,725.87,Returning,North,Credit Card,4355.22
+ORD00613,2024-07-12,Headphones,Accessories,1,123.31,Returning,North,PayPal,123.31
+ORD00833,2024-07-13,Headphones,Electronics,6,1168.69,Returning,North,PayPal,7012.14
+ORD00835,2024-07-13,Tablet,Electronics,7,1257.0,Returning,West,Debit Card,8799.0
+ORD00304,2024-07-13,Tablet,Accessories,8,339.77,Returning,North,PayPal,2718.16
+ORD00418,2024-07-14,Headphones,Accessories,4,1186.08,Returning,West,Debit Card,4744.32
+ORD00533,2024-07-14,Laptop,Electronics,1,1357.3,Returning,North,Credit Card,1357.3
+ORD00743,2024-07-15,Laptop,Electronics,1,268.5,New,South,PayPal,268.5
+ORD00713,2024-07-15,Smartwatch,Accessories,1,226.91,Returning,West,Debit Card,226.91
+ORD00231,2024-07-16,Phone,Electronics,5,639.51,Returning,North,PayPal,3197.55
+ORD00220,2024-07-16,Laptop,Electronics,6,1310.93,New,East,PayPal,7865.58
+ORD00946,2024-07-16,Phone,Electronics,4,1493.67,Returning,West,Credit Card,5974.68
+ORD00182,2024-07-16,Laptop,Electronics,3,302.65,Returning,West,Credit Card,907.95
+ORD00247,2024-07-17,Headphones,Accessories,4,416.34,New,South,Debit Card,1665.36
+ORD00112,2024-07-19,Phone,Electronics,4,911.42,New,East,Credit Card,3645.68
+ORD00704,2024-07-19,Headphones,Accessories,1,76.66,Returning,North,Credit Card,76.66
+ORD00235,2024-07-19,Headphones,Electronics,6,860.21,New,West,PayPal,5161.26
+ORD00073,2024-07-20,Laptop,Electronics,8,1412.9,New,West,Debit Card,11303.2
+ORD00751,2024-07-20,Phone,Electronics,3,1264.42,New,East,Debit Card,3793.26
+ORD00635,2024-07-20,Tablet,Accessories,7,1249.67,Returning,South,Credit Card,8747.69
+ORD00908,2024-07-20,Headphones,Accessories,9,1062.39,New,East,PayPal,9561.51
+ORD00223,2024-07-21,Tablet,Electronics,5,1401.87,Returning,North,Credit Card,7009.35
+ORD00977,2024-07-21,Smartwatch,Electronics,8,71.12,Returning,West,PayPal,568.96
+ORD00666,2024-07-21,Headphones,Electronics,7,974.96,Returning,East,Credit Card,6824.72
+ORD00474,2024-07-22,Headphones,Accessories,7,1275.05,Returning,South,Debit Card,8925.35
+ORD00759,2024-07-23,Smartwatch,Electronics,9,235.27,Returning,South,Credit Card,2117.43
+ORD00818,2024-07-23,Headphones,Accessories,7,1492.29,Returning,North,Debit Card,10446.03
+ORD00574,2024-07-24,Smartwatch,Electronics,6,161.37,New,East,Debit Card,968.22
+ORD00060,2024-07-24,Smartwatch,Electronics,5,250.73,Returning,West,Debit Card,1253.65
+ORD00881,2024-07-25,Laptop,Electronics,1,773.99,Returning,West,Credit Card,773.99
+ORD00782,2024-07-25,Headphones,Electronics,6,1232.15,New,North,Credit Card,7392.9
+ORD00134,2024-07-25,Laptop,Electronics,9,1175.07,New,South,PayPal,10575.63
+ORD00296,2024-07-26,Laptop,Electronics,6,537.21,New,South,Debit Card,3223.26
+ORD00083,2024-07-26,Tablet,Electronics,6,984.17,Returning,East,PayPal,5905.02
+ORD00275,2024-07-26,Laptop,Electronics,1,1406.0,Returning,South,Debit Card,1406.0
+ORD00705,2024-07-30,Laptop,Electronics,9,722.9,Returning,West,Debit Card,6506.1
+ORD00918,2024-07-30,Laptop,Electronics,2,909.52,New,East,Credit Card,1819.04
+ORD00986,2024-07-30,Phone,Electronics,2,1246.04,New,East,Debit Card,2492.08
+ORD00665,2024-07-31,Headphones,Electronics,7,785.27,New,West,Credit Card,5496.89
+ORD00082,2024-07-31,Smartwatch,Electronics,2,128.87,Returning,North,PayPal,257.74
+ORD00123,2024-08-01,Smartwatch,Electronics,4,1041.01,Returning,South,Debit Card,4164.04
+ORD00885,2024-08-01,Headphones,Accessories,7,1315.35,Returning,East,Debit Card,9207.45
+ORD00864,2024-08-01,Headphones,Electronics,7,489.38,Returning,South,PayPal,3425.66
+ORD00525,2024-08-02,Smartwatch,Electronics,5,393.86,Returning,North,Debit Card,1969.3
+ORD00078,2024-08-02,Laptop,Electronics,2,1302.28,Returning,West,Debit Card,2604.56
+ORD00010,2024-08-02,Smartwatch,Electronics,1,652.1,New,North,Credit Card,652.1
+ORD00393,2024-08-02,Tablet,Electronics,7,966.75,New,West,Credit Card,6767.25
+ORD00595,2024-08-02,Phone,Electronics,9,871.01,Returning,North,Debit Card,7839.09
+ORD00889,2024-08-03,Headphones,Accessories,5,940.27,Returning,North,Debit Card,4701.35
+ORD00118,2024-08-03,Tablet,Accessories,2,407.11,Returning,South,PayPal,814.22
+ORD00624,2024-08-04,Headphones,Electronics,3,851.51,Returning,West,Credit Card,2554.53
+ORD00733,2024-08-04,Laptop,Electronics,5,1218.67,Returning,East,PayPal,6093.35
+ORD00088,2024-08-04,Smartwatch,Electronics,7,1224.87,New,North,PayPal,8574.09
+ORD00557,2024-08-04,Phone,Electronics,1,145.25,New,North,Debit Card,145.25
+ORD00564,2024-08-04,Tablet,Electronics,3,869.86,Returning,North,Credit Card,2609.58
+ORD00537,2024-08-04,Headphones,Accessories,8,1251.31,New,North,Debit Card,10010.48
+ORD00475,2024-08-05,Tablet,Accessories,5,374.77,Returning,South,Debit Card,1873.85
+ORD00218,2024-08-05,Phone,Accessories,8,1117.55,Returning,West,PayPal,8940.4
+ORD00130,2024-08-05,Tablet,Electronics,8,1052.26,Returning,South,Debit Card,8418.08
+ORD00070,2024-08-05,Tablet,Electronics,4,766.51,Returning,South,PayPal,3066.04
+ORD00857,2024-08-05,Laptop,Electronics,1,539.09,New,South,Debit Card,539.09
+ORD00643,2024-08-07,Tablet,Electronics,9,502.27,Returning,North,Debit Card,4520.43
+ORD00698,2024-08-07,Smartwatch,Accessories,2,1418.7,Returning,South,Credit Card,2837.4
+ORD00332,2024-08-07,Headphones,Electronics,6,558.1,Returning,East,Debit Card,3348.6
+ORD00209,2024-08-07,Smartwatch,Electronics,9,1209.59,New,East,PayPal,10886.31
+ORD00967,2024-08-07,Headphones,Electronics,1,335.49,Returning,West,PayPal,335.49
+ORD00706,2024-08-07,Laptop,Electronics,4,1417.44,Returning,West,PayPal,5669.76
+ORD00469,2024-08-07,Smartwatch,Electronics,1,412.17,Returning,East,PayPal,412.17
+ORD00596,2024-08-08,Smartwatch,Electronics,5,59.07,New,North,PayPal,295.35
+ORD00776,2024-08-09,Tablet,Electronics,5,1342.24,Returning,North,PayPal,6711.2
+ORD00481,2024-08-09,Headphones,Electronics,6,989.94,Returning,North,PayPal,5939.64
+ORD00145,2024-08-09,Laptop,Accessories,6,293.77,Returning,North,Credit Card,1762.62
+ORD00575,2024-08-10,Tablet,Electronics,9,390.74,Returning,South,PayPal,3516.66
+ORD00355,2024-08-10,Laptop,Electronics,6,445.78,Returning,West,PayPal,2674.68
+ORD00964,2024-08-10,Smartwatch,Accessories,7,1140.59,Returning,East,Credit Card,7984.13
+ORD00591,2024-08-10,Tablet,Accessories,2,504.87,New,West,Debit Card,1009.74
+ORD00491,2024-08-10,Smartwatch,Electronics,3,1137.54,Returning,West,Credit Card,3412.62
+ORD00726,2024-08-11,Headphones,Electronics,9,1177.31,Returning,South,Debit Card,10595.79
+ORD00212,2024-08-11,Phone,Accessories,7,653.41,New,East,Credit Card,4573.87
+ORD00551,2024-08-11,Headphones,Electronics,4,1496.55,Returning,North,PayPal,5986.2
+ORD00684,2024-08-11,Laptop,Electronics,9,763.74,New,West,Credit Card,6873.66
+ORD00987,2024-08-12,Smartwatch,Electronics,1,1192.23,New,East,Credit Card,1192.23
+ORD00186,2024-08-12,Smartwatch,Electronics,6,623.78,New,South,Credit Card,3742.68
+ORD00175,2024-08-12,Phone,Accessories,1,944.97,New,West,Credit Card,944.97
+ORD00213,2024-08-12,Tablet,Electronics,4,795.08,New,West,Debit Card,3180.32
+ORD00939,2024-08-13,Phone,Electronics,4,1482.24,Returning,North,PayPal,5928.96
+ORD00790,2024-08-13,Headphones,Electronics,6,1483.81,Returning,North,PayPal,8902.86
+ORD00318,2024-08-13,Phone,Accessories,5,460.06,New,North,Credit Card,2300.3
+ORD00903,2024-08-14,Headphones,Electronics,6,481.17,Returning,South,Credit Card,2887.02
+ORD00670,2024-08-14,Tablet,Accessories,6,697.34,New,East,Credit Card,4184.04
+ORD00125,2024-08-14,Phone,Electronics,8,1210.11,New,East,Credit Card,9680.88
+ORD00287,2024-08-14,Phone,Electronics,7,228.93,Returning,East,PayPal,1602.51
+ORD00543,2024-08-14,Tablet,Electronics,9,1292.93,Returning,North,PayPal,11636.37
+ORD00701,2024-08-15,Headphones,Electronics,1,51.95,New,North,PayPal,51.95
+ORD00926,2024-08-15,Tablet,Accessories,2,809.31,Returning,South,Credit Card,1618.62
+ORD00962,2024-08-16,Tablet,Electronics,5,324.46,New,West,PayPal,1622.3
+ORD00439,2024-08-16,Phone,Accessories,7,882.93,New,East,Debit Card,6180.51
+ORD00942,2024-08-16,Smartwatch,Electronics,3,924.83,Returning,South,Credit Card,2774.49
+ORD00668,2024-08-16,Smartwatch,Electronics,4,1163.61,Returning,North,Credit Card,4654.44
+ORD00783,2024-08-16,Headphones,Electronics,7,1346.89,Returning,West,PayPal,9428.23
+ORD00312,2024-08-17,Phone,Electronics,6,1394.67,Returning,South,PayPal,8368.02
+ORD00605,2024-08-17,Phone,Electronics,3,645.22,New,East,Credit Card,1935.66
+ORD00173,2024-08-18,Smartwatch,Accessories,1,1252.51,Returning,North,PayPal,1252.51
+ORD00141,2024-08-18,Tablet,Electronics,8,493.77,New,North,PayPal,3950.16
+ORD00108,2024-08-18,Phone,Accessories,6,981.74,Returning,East,Debit Card,5890.44
+ORD00146,2024-08-18,Phone,Electronics,5,738.68,New,West,PayPal,3693.4
+ORD00911,2024-08-18,Laptop,Electronics,3,577.29,Returning,East,PayPal,1731.87
+ORD00337,2024-08-20,Smartwatch,Accessories,1,837.38,New,West,Credit Card,837.38
+ORD00271,2024-08-20,Tablet,Electronics,4,942.12,New,East,Credit Card,3768.48
+ORD00674,2024-08-20,Smartwatch,Electronics,3,985.05,New,South,Debit Card,2955.15
+ORD00851,2024-08-20,Smartwatch,Electronics,5,1345.77,Returning,East,Debit Card,6728.85
+ORD00179,2024-08-20,Laptop,Electronics,5,490.25,Returning,West,PayPal,2451.25
+ORD00570,2024-08-20,Laptop,Electronics,7,1217.2,Returning,West,PayPal,8520.4
+ORD00194,2024-08-20,Laptop,Electronics,9,1013.09,New,East,Debit Card,9117.81
+ORD00922,2024-08-20,Headphones,Electronics,9,859.61,Returning,South,PayPal,7736.49
+ORD00188,2024-08-21,Laptop,Accessories,9,458.78,Returning,East,Credit Card,4129.02
+ORD00597,2024-08-22,Smartwatch,Electronics,8,139.73,Returning,East,PayPal,1117.84
+ORD00820,2024-08-22,Headphones,Accessories,4,1181.5,New,South,PayPal,4726.0
+ORD00931,2024-08-23,Laptop,Accessories,8,506.77,Returning,South,PayPal,4054.16
+ORD00775,2024-08-23,Phone,Electronics,2,483.24,Returning,East,Credit Card,966.48
+ORD00028,2024-08-23,Phone,Accessories,3,1359.49,New,South,PayPal,4078.47
+ORD00455,2024-08-24,Phone,Accessories,3,314.87,Returning,East,PayPal,944.61
+ORD00084,2024-08-24,Phone,Electronics,2,1462.66,Returning,North,Credit Card,2925.32
+ORD00147,2024-08-24,Headphones,Electronics,9,130.07,Returning,South,PayPal,1170.63
+ORD00898,2024-08-25,Headphones,Electronics,1,311.75,Returning,East,PayPal,311.75
+ORD00473,2024-08-25,Headphones,Electronics,4,1395.75,Returning,East,Debit Card,5583.0
+ORD00309,2024-08-25,Smartwatch,Electronics,4,856.86,New,West,Debit Card,3427.44
+ORD00600,2024-08-26,Smartwatch,Electronics,7,1139.61,Returning,West,Debit Card,7977.27
+ORD00900,2024-08-26,Headphones,Electronics,3,811.62,New,North,Debit Card,2434.86
+ORD00865,2024-08-26,Phone,Electronics,6,1451.49,Returning,East,Debit Card,8708.94
+ORD00727,2024-08-26,Laptop,Electronics,9,1025.63,Returning,South,Debit Card,9230.67
+ORD00448,2024-08-26,Laptop,Electronics,4,125.09,Returning,South,PayPal,500.36
+ORD00232,2024-08-27,Tablet,Electronics,6,1359.63,New,West,Credit Card,8157.78
+ORD00707,2024-08-27,Headphones,Electronics,3,519.54,Returning,West,Credit Card,1558.62
+ORD00822,2024-08-27,Phone,Accessories,7,1162.87,Returning,East,Debit Card,8140.09
+ORD00142,2024-08-28,Smartwatch,Accessories,2,850.22,New,West,Debit Card,1700.44
+ORD00718,2024-08-29,Laptop,Accessories,4,911.51,Returning,North,Credit Card,3646.04
+ORD00523,2024-08-29,Laptop,Electronics,4,61.69,Returning,North,Credit Card,246.76
+ORD00052,2024-08-29,Tablet,Electronics,1,1410.7,New,East,Credit Card,1410.7
+ORD00642,2024-08-29,Laptop,Electronics,9,539.1,Returning,East,Debit Card,4851.9
+ORD00156,2024-08-30,Tablet,Electronics,3,275.58,New,North,Credit Card,826.74
+ORD00959,2024-08-30,Headphones,Accessories,4,84.96,Returning,East,Credit Card,339.84
+ORD00040,2024-08-31,Smartwatch,Accessories,3,638.72,Returning,East,Debit Card,1916.16
+ORD00371,2024-09-02,Phone,Accessories,8,1304.2,Returning,East,Debit Card,10433.6
+ORD00486,2024-09-02,Headphones,Accessories,7,513.5,Returning,North,PayPal,3594.5
+ORD00221,2024-09-03,Laptop,Electronics,1,634.02,Returning,North,Credit Card,634.02
+ORD00501,2024-09-03,Phone,Accessories,5,369.13,Returning,South,Debit Card,1845.65
+ORD00375,2024-09-03,Headphones,Electronics,9,567.31,Returning,West,Debit Card,5105.79
+ORD00803,2024-09-03,Headphones,Electronics,4,514.04,Returning,South,Credit Card,2056.16
+ORD00462,2024-09-03,Smartwatch,Electronics,2,74.3,New,West,Debit Card,148.6
+ORD00958,2024-09-03,Laptop,Accessories,7,935.05,Returning,North,Debit Card,6545.35
+ORD00539,2024-09-05,Laptop,Electronics,6,1060.21,Returning,East,PayPal,6361.26
+ORD00824,2024-09-05,Tablet,Electronics,1,763.48,New,South,Debit Card,763.48
+ORD00799,2024-09-05,Smartwatch,Electronics,5,177.09,New,East,Credit Card,885.45
+ORD00861,2024-09-05,Tablet,Electronics,2,1389.96,Returning,North,Debit Card,2779.92
+ORD00768,2024-09-06,Headphones,Electronics,2,1390.17,Returning,East,PayPal,2780.34
+ORD00484,2024-09-06,Phone,Electronics,8,1413.27,Returning,West,Debit Card,11306.16
+ORD00492,2024-09-06,Tablet,Electronics,6,820.91,Returning,East,Debit Card,4925.46
+ORD00719,2024-09-07,Smartwatch,Electronics,5,646.49,Returning,West,PayPal,3232.45
+ORD00777,2024-09-07,Laptop,Accessories,2,69.77,Returning,North,Credit Card,139.54
+ORD00079,2024-09-08,Headphones,Accessories,8,209.59,New,East,PayPal,1676.72
+ORD00089,2024-09-08,Headphones,Electronics,3,650.05,Returning,West,PayPal,1950.15
+ORD00629,2024-09-08,Tablet,Accessories,4,843.75,New,East,Credit Card,3375.0
+ORD00667,2024-09-08,Smartwatch,Accessories,6,1478.5,New,South,Credit Card,8871.0
+ORD00259,2024-09-08,Smartwatch,Accessories,6,339.28,New,South,Debit Card,2035.68
+ORD00242,2024-09-08,Tablet,Electronics,1,1107.72,Returning,East,Debit Card,1107.72
+ORD00789,2024-09-08,Tablet,Accessories,3,1016.09,New,North,Debit Card,3048.27
+ORD00604,2024-09-09,Laptop,Electronics,3,185.13,New,East,Debit Card,555.39
+ORD00027,2024-09-09,Laptop,Electronics,6,1248.65,Returning,West,Debit Card,7491.9
+ORD00879,2024-09-09,Headphones,Accessories,3,290.78,Returning,South,Credit Card,872.34
+ORD00522,2024-09-09,Laptop,Accessories,4,1004.18,New,East,Debit Card,4016.72
+ORD00710,2024-09-09,Laptop,Electronics,9,414.07,New,North,PayPal,3726.63
+ORD00348,2024-09-09,Smartwatch,Electronics,2,1478.03,Returning,South,Debit Card,2956.06
+ORD00286,2024-09-10,Smartwatch,Electronics,2,1171.65,Returning,North,Credit Card,2343.3
+ORD00266,2024-09-10,Headphones,Electronics,4,1189.43,New,South,Credit Card,4757.72
+ORD00480,2024-09-10,Tablet,Accessories,6,1055.34,Returning,South,Debit Card,6332.04
+ORD00226,2024-09-11,Smartwatch,Electronics,1,240.9,Returning,West,Debit Card,240.9
+ORD00131,2024-09-11,Smartwatch,Accessories,2,924.41,New,West,Debit Card,1848.82
+ORD00780,2024-09-11,Tablet,Electronics,9,264.92,New,North,Debit Card,2384.28
+ORD00350,2024-09-12,Phone,Electronics,7,706.58,New,North,Debit Card,4946.06
+ORD00712,2024-09-12,Headphones,Electronics,6,357.88,Returning,South,PayPal,2147.28
+ORD00875,2024-09-13,Tablet,Electronics,8,551.16,New,East,PayPal,4409.28
+ORD00128,2024-09-13,Phone,Electronics,2,340.8,Returning,South,PayPal,681.6
+ORD00495,2024-09-13,Tablet,Accessories,3,364.59,Returning,North,PayPal,1093.77
+ORD00502,2024-09-14,Tablet,Electronics,9,801.5,Returning,East,PayPal,7213.5
+ORD00019,2024-09-14,Tablet,Electronics,8,1117.53,Returning,East,Debit Card,8940.24
+ORD00240,2024-09-15,Laptop,Electronics,3,1346.28,New,North,Credit Card,4038.84
+ORD00180,2024-09-15,Laptop,Electronics,4,501.95,Returning,West,Debit Card,2007.8
+ORD00771,2024-09-15,Tablet,Accessories,2,511.48,Returning,South,PayPal,1022.96
+ORD00680,2024-09-15,Phone,Accessories,6,924.63,Returning,North,Credit Card,5547.78
+ORD00747,2024-09-15,Smartwatch,Electronics,6,1187.92,Returning,South,Debit Card,7127.52
+ORD00760,2024-09-16,Tablet,Electronics,6,691.43,Returning,West,Debit Card,4148.58
+ORD00067,2024-09-16,Smartwatch,Accessories,7,967.96,Returning,South,PayPal,6775.72
+ORD00107,2024-09-17,Tablet,Electronics,9,1259.0,New,North,PayPal,11331.0
+ORD00419,2024-09-18,Smartwatch,Accessories,4,1064.57,Returning,South,Debit Card,4258.28
+ORD00816,2024-09-18,Smartwatch,Electronics,9,1215.94,New,West,Debit Card,10943.46
+ORD00258,2024-09-19,Headphones,Electronics,5,853.79,New,South,Debit Card,4268.95
+ORD00528,2024-09-20,Laptop,Accessories,1,775.69,Returning,West,PayPal,775.69
+ORD00930,2024-09-20,Smartwatch,Electronics,9,341.12,Returning,South,Credit Card,3070.08
+ORD00315,2024-09-20,Phone,Electronics,2,1136.67,New,West,Debit Card,2273.34
+ORD00058,2024-09-20,Laptop,Electronics,8,1112.86,Returning,West,Credit Card,8902.88
+ORD00412,2024-09-20,Phone,Electronics,5,159.71,Returning,East,Credit Card,798.55
+ORD00386,2024-09-20,Smartwatch,Electronics,5,301.35,Returning,North,PayPal,1506.75
+ORD00572,2024-09-21,Tablet,Electronics,8,281.46,Returning,South,PayPal,2251.68
+ORD00053,2024-09-21,Smartwatch,Electronics,4,651.48,New,East,Credit Card,2605.92
+ORD00729,2024-09-23,Tablet,Electronics,4,764.27,Returning,North,Credit Card,3057.08
+ORD00254,2024-09-23,Phone,Electronics,6,127.6,New,East,Debit Card,765.6
+ORD00773,2024-09-24,Headphones,Electronics,8,985.11,Returning,West,PayPal,7880.88
+ORD00114,2024-09-24,Phone,Electronics,6,146.47,New,East,Debit Card,878.82
+ORD00199,2024-09-24,Laptop,Electronics,9,1159.48,New,North,Credit Card,10435.32
+ORD00511,2024-09-24,Smartwatch,Electronics,6,723.69,Returning,South,Credit Card,4342.14
+ORD00553,2024-09-24,Headphones,Electronics,3,716.49,Returning,South,Credit Card,2149.47
+ORD00427,2024-09-25,Headphones,Electronics,2,407.05,New,East,PayPal,814.1
+ORD00074,2024-09-26,Laptop,Electronics,3,780.81,Returning,West,PayPal,2342.43
+ORD00077,2024-09-27,Tablet,Accessories,6,575.53,Returning,East,PayPal,3453.18
+ORD00409,2024-09-27,Phone,Electronics,2,418.21,New,West,PayPal,836.42
+ORD00003,2024-09-27,Laptop,Electronics,6,1190.73,New,East,Credit Card,7144.38
+ORD00034,2024-09-27,Smartwatch,Electronics,3,878.19,New,West,Credit Card,2634.57
+ORD00685,2024-09-28,Headphones,Electronics,4,332.76,New,South,Credit Card,1331.04
+ORD00456,2024-09-28,Laptop,Electronics,5,252.42,Returning,East,Credit Card,1262.1
+ORD00812,2024-09-29,Smartwatch,Electronics,9,1016.59,Returning,East,PayPal,9149.31
+ORD00368,2024-09-29,Headphones,Electronics,7,1415.22,Returning,North,Debit Card,9906.54
+ORD00910,2024-09-29,Smartwatch,Electronics,9,110.85,New,North,Credit Card,997.65
+ORD00561,2024-09-29,Phone,Electronics,4,1379.57,Returning,South,PayPal,5518.28
+ORD00048,2024-09-30,Smartwatch,Electronics,8,497.99,Returning,East,PayPal,3983.92
+ORD00901,2024-09-30,Tablet,Electronics,5,211.25,New,South,PayPal,1056.25
+ORD00435,2024-10-01,Headphones,Electronics,3,89.51,New,East,Debit Card,268.53
+ORD00985,2024-10-01,Phone,Electronics,7,1238.43,Returning,West,PayPal,8669.01
+ORD00630,2024-10-01,Phone,Accessories,1,1114.16,Returning,South,PayPal,1114.16
+ORD00945,2024-10-03,Smartwatch,Electronics,7,662.85,Returning,North,Credit Card,4639.95
+ORD00538,2024-10-03,Phone,Electronics,7,1083.63,Returning,East,Credit Card,7585.41
+ORD00023,2024-10-03,Headphones,Accessories,1,1134.61,Returning,West,Debit Card,1134.61
+ORD00301,2024-10-03,Smartwatch,Electronics,9,1387.43,Returning,South,Debit Card,12486.87
+ORD00319,2024-10-03,Phone,Accessories,4,656.94,New,West,Debit Card,2627.76
+ORD00842,2024-10-03,Phone,Accessories,5,808.66,New,South,Credit Card,4043.3
+ORD00460,2024-10-04,Laptop,Electronics,8,449.85,Returning,North,Debit Card,3598.8
+ORD00556,2024-10-05,Laptop,Electronics,7,337.24,Returning,West,Debit Card,2360.68
+ORD00442,2024-10-05,Smartwatch,Electronics,5,1351.73,New,South,PayPal,6758.65
+ORD00499,2024-10-06,Laptop,Accessories,7,1365.51,Returning,West,PayPal,9558.57
+ORD00339,2024-10-06,Phone,Accessories,2,681.68,Returning,North,Credit Card,1363.36
+ORD00228,2024-10-06,Tablet,Accessories,6,289.69,Returning,West,Credit Card,1738.14
+ORD00087,2024-10-06,Headphones,Electronics,2,1134.3,Returning,South,Credit Card,2268.6
+ORD00361,2024-10-06,Tablet,Electronics,2,137.14,Returning,West,Credit Card,274.28
+ORD00354,2024-10-07,Smartwatch,Electronics,2,1079.69,Returning,East,PayPal,2159.38
+ORD00832,2024-10-07,Phone,Accessories,9,452.88,Returning,South,Debit Card,4075.92
+ORD00860,2024-10-08,Laptop,Accessories,4,1111.96,New,South,PayPal,4447.84
+ORD00937,2024-10-08,Headphones,Electronics,2,1033.81,Returning,West,PayPal,2067.62
+ORD00731,2024-10-08,Laptop,Electronics,7,1218.01,Returning,West,Credit Card,8526.07
+ORD00611,2024-10-09,Laptop,Electronics,5,180.38,Returning,West,Debit Card,901.9
+ORD00133,2024-10-09,Tablet,Electronics,1,1414.12,Returning,East,Debit Card,1414.12
+ORD00176,2024-10-09,Headphones,Electronics,4,276.17,New,South,Debit Card,1104.68
+ORD00736,2024-10-09,Laptop,Electronics,1,85.79,Returning,South,Credit Card,85.79
+ORD00316,2024-10-09,Smartwatch,Accessories,1,675.11,New,South,PayPal,675.11
+ORD00322,2024-10-10,Laptop,Electronics,8,475.98,New,East,Credit Card,3807.84
+ORD00164,2024-10-10,Tablet,Electronics,7,488.59,New,West,Debit Card,3420.13
+ORD00573,2024-10-10,Laptop,Accessories,3,536.65,Returning,North,PayPal,1609.95
+ORD00158,2024-10-10,Phone,Accessories,1,964.34,Returning,South,Credit Card,964.34
+ORD00468,2024-10-11,Laptop,Electronics,9,502.11,Returning,East,PayPal,4518.99
+ORD00808,2024-10-11,Smartwatch,Electronics,1,908.84,Returning,West,PayPal,908.84
+ORD00518,2024-10-11,Tablet,Electronics,1,1182.4,Returning,South,Debit Card,1182.4
+ORD00560,2024-10-12,Tablet,Electronics,4,770.5,New,South,Credit Card,3082.0
+ORD00717,2024-10-12,Smartwatch,Electronics,3,316.01,Returning,South,Debit Card,948.03
+ORD00169,2024-10-12,Headphones,Electronics,7,160.9,New,East,Debit Card,1126.3
+ORD00795,2024-10-12,Headphones,Electronics,6,167.51,Returning,South,PayPal,1005.06
+ORD00320,2024-10-12,Headphones,Electronics,4,474.15,Returning,South,PayPal,1896.6
+ORD00761,2024-10-14,Tablet,Electronics,9,111.58,Returning,West,PayPal,1004.22
+ORD00363,2024-10-14,Laptop,Electronics,7,988.9,New,East,Debit Card,6922.3
+ORD00392,2024-10-14,Headphones,Electronics,8,1114.13,Returning,East,PayPal,8913.04
+ORD00106,2024-10-15,Headphones,Electronics,9,897.52,Returning,South,PayPal,8077.68
+ORD00943,2024-10-15,Laptop,Accessories,6,1212.44,New,East,PayPal,7274.64
+ORD00300,2024-10-15,Headphones,Accessories,9,324.25,Returning,East,Credit Card,2918.25
+ORD00723,2024-10-15,Smartwatch,Electronics,3,1219.8,New,East,PayPal,3659.4
+ORD00479,2024-10-15,Smartwatch,Electronics,9,113.86,Returning,South,PayPal,1024.74
+ORD00449,2024-10-16,Smartwatch,Electronics,8,858.1,Returning,East,PayPal,6864.8
+ORD00489,2024-10-16,Headphones,Accessories,4,1445.28,Returning,South,Debit Card,5781.12
+ORD00627,2024-10-18,Laptop,Accessories,2,479.77,Returning,East,Debit Card,959.54
+ORD00874,2024-10-18,Phone,Electronics,3,890.61,Returning,East,Credit Card,2671.83
+ORD00997,2024-10-19,Phone,Electronics,6,917.11,New,North,PayPal,5502.66
+ORD00119,2024-10-19,Headphones,Electronics,4,1051.49,New,North,PayPal,4205.96
+ORD00227,2024-10-20,Tablet,Electronics,6,1289.32,Returning,North,Debit Card,7735.92
+ORD00902,2024-10-20,Smartwatch,Electronics,9,1308.85,New,North,Debit Card,11779.65
+ORD00021,2024-10-20,Smartwatch,Electronics,1,1016.82,Returning,South,Credit Card,1016.82
+ORD00791,2024-10-20,Smartwatch,Electronics,2,377.31,Returning,South,PayPal,754.62
+ORD00200,2024-10-21,Tablet,Electronics,9,1413.61,Returning,West,PayPal,12722.49
+ORD00081,2024-10-22,Phone,Electronics,7,965.88,Returning,North,Credit Card,6761.16
+ORD00256,2024-10-24,Tablet,Electronics,9,386.48,Returning,East,PayPal,3478.32
+ORD00370,2024-10-25,Tablet,Accessories,4,720.47,New,East,Credit Card,2881.88
+ORD00914,2024-10-26,Smartwatch,Accessories,9,418.68,New,South,Debit Card,3768.12
+ORD00980,2024-10-26,Headphones,Accessories,2,288.71,Returning,East,Credit Card,577.42
+ORD00858,2024-10-27,Headphones,Electronics,3,1415.29,New,North,Credit Card,4245.87
+ORD00625,2024-10-27,Laptop,Electronics,6,363.56,Returning,West,Debit Card,2181.36
+ORD00094,2024-10-27,Headphones,Electronics,6,1425.68,Returning,West,Debit Card,8554.08
+ORD00341,2024-10-28,Headphones,Electronics,9,453.29,Returning,South,PayPal,4079.61
+ORD00521,2024-10-28,Smartwatch,Electronics,1,1345.71,Returning,East,PayPal,1345.71
+ORD00781,2024-10-29,Phone,Electronics,4,183.54,Returning,North,Debit Card,734.16
+ORD00662,2024-10-29,Tablet,Accessories,8,295.14,Returning,South,Debit Card,2361.12
+ORD00714,2024-10-29,Smartwatch,Electronics,2,1067.01,Returning,North,Credit Card,2134.02
+ORD00882,2024-10-29,Smartwatch,Accessories,2,204.19,New,West,PayPal,408.38
+ORD00302,2024-10-30,Phone,Accessories,3,1058.66,New,South,Debit Card,3175.98
+ORD00274,2024-10-30,Tablet,Electronics,8,1070.92,Returning,East,Debit Card,8567.36
+ORD00076,2024-10-30,Smartwatch,Accessories,3,1257.61,Returning,South,PayPal,3772.83
+ORD00324,2024-10-30,Smartwatch,Electronics,1,973.79,New,West,PayPal,973.79
+ORD00265,2024-10-30,Tablet,Accessories,7,1390.56,Returning,South,Credit Card,9733.92
+ORD00405,2024-10-31,Tablet,Electronics,3,645.74,Returning,North,PayPal,1937.22
+ORD00675,2024-10-31,Tablet,Accessories,2,84.12,Returning,North,Debit Card,168.24
+ORD00772,2024-11-01,Headphones,Electronics,6,1346.68,New,South,Debit Card,8080.08
+ORD00378,2024-11-01,Laptop,Electronics,5,483.34,Returning,West,Debit Card,2416.7
+ORD00792,2024-11-01,Smartwatch,Accessories,9,615.35,New,South,Debit Card,5538.15
+ORD00187,2024-11-02,Laptop,Electronics,7,1087.02,New,North,Credit Card,7609.14
+ORD00043,2024-11-02,Tablet,Electronics,3,502.68,Returning,West,PayPal,1508.04
+ORD00248,2024-11-03,Phone,Electronics,6,804.11,Returning,South,Credit Card,4824.66
+ORD00798,2024-11-03,Tablet,Electronics,1,636.85,Returning,North,Debit Card,636.85
+ORD00425,2024-11-03,Headphones,Electronics,1,1134.83,New,South,PayPal,1134.83
+ORD00018,2024-11-04,Tablet,Electronics,9,795.59,Returning,South,Credit Card,7160.31
+ORD00068,2024-11-05,Laptop,Electronics,9,730.46,Returning,East,Debit Card,6574.14
+ORD00294,2024-11-05,Laptop,Accessories,4,1142.91,Returning,West,PayPal,4571.64
+ORD00956,2024-11-06,Headphones,Accessories,9,871.99,New,North,PayPal,7847.91
+ORD00424,2024-11-06,Phone,Electronics,1,1194.76,Returning,West,PayPal,1194.76
+ORD00741,2024-11-06,Phone,Electronics,2,1210.3,Returning,West,Debit Card,2420.6
+ORD00716,2024-11-07,Tablet,Electronics,2,1495.52,Returning,South,Credit Card,2991.04
+ORD00653,2024-11-07,Smartwatch,Accessories,9,1001.76,Returning,South,Debit Card,9015.84
+ORD00894,2024-11-07,Headphones,Electronics,7,651.69,Returning,West,Debit Card,4561.83
+ORD00778,2024-11-08,Headphones,Electronics,2,517.95,Returning,North,PayPal,1035.9
+ORD00381,2024-11-08,Phone,Electronics,8,1108.08,Returning,South,PayPal,8864.64
+ORD00402,2024-11-09,Phone,Electronics,4,1315.88,Returning,East,Debit Card,5263.52
+ORD00025,2024-11-09,Smartwatch,Electronics,8,1074.91,Returning,West,Debit Card,8599.28
+ORD00534,2024-11-09,Tablet,Accessories,9,362.05,New,North,Debit Card,3258.45
+ORD00191,2024-11-10,Tablet,Electronics,3,553.24,New,West,Debit Card,1659.72
+ORD00735,2024-11-10,Headphones,Electronics,4,290.56,Returning,East,Credit Card,1162.24
+ORD00940,2024-11-10,Headphones,Electronics,3,522.24,New,East,Debit Card,1566.72
+ORD00380,2024-11-11,Laptop,Electronics,8,688.08,Returning,North,PayPal,5504.64
+ORD00695,2024-11-11,Phone,Accessories,8,245.87,New,North,Debit Card,1966.96
+ORD00050,2024-11-11,Laptop,Accessories,7,791.87,New,South,Credit Card,5543.09
+ORD00647,2024-11-12,Phone,Accessories,6,1318.92,Returning,East,PayPal,7913.52
+ORD00661,2024-11-12,Tablet,Accessories,2,220.06,Returning,North,PayPal,440.12
+ORD00846,2024-11-12,Phone,Electronics,1,996.78,New,North,Debit Card,996.78
+ORD00323,2024-11-12,Tablet,Accessories,6,110.17,Returning,South,Debit Card,661.02
+ORD00952,2024-11-13,Phone,Electronics,8,545.68,Returning,North,Credit Card,4365.44
+ORD00441,2024-11-13,Smartwatch,Accessories,8,1048.71,Returning,North,Debit Card,8389.68
+ORD00184,2024-11-13,Headphones,Electronics,1,690.53,New,West,Debit Card,690.53
+ORD00197,2024-11-13,Tablet,Electronics,4,233.22,Returning,South,Debit Card,932.88
+ORD00434,2024-11-14,Phone,Electronics,5,217.77,Returning,North,Credit Card,1088.85
+ORD00869,2024-11-14,Laptop,Electronics,8,495.5,Returning,East,PayPal,3964.0
+ORD00938,2024-11-15,Phone,Accessories,6,518.49,New,South,Credit Card,3110.94
+ORD00995,2024-11-15,Laptop,Accessories,4,1126.33,New,North,Credit Card,4505.32
+ORD00041,2024-11-15,Smartwatch,Electronics,8,69.86,Returning,West,Debit Card,558.88
+ORD00620,2024-11-16,Phone,Accessories,8,1150.68,Returning,East,PayPal,9205.44
+ORD00385,2024-11-16,Tablet,Electronics,6,1242.62,Returning,North,Credit Card,7455.72
+ORD00391,2024-11-17,Laptop,Electronics,6,248.78,Returning,South,PayPal,1492.68
+ORD00966,2024-11-17,Phone,Electronics,6,1261.29,Returning,West,Debit Card,7567.74
+ORD00358,2024-11-18,Laptop,Accessories,2,1374.19,Returning,East,Credit Card,2748.38
+ORD00512,2024-11-18,Tablet,Electronics,5,600.44,New,North,Credit Card,3002.2
+ORD00351,2024-11-18,Laptop,Electronics,7,337.81,Returning,East,PayPal,2364.67
+ORD00984,2024-11-19,Tablet,Electronics,3,80.48,New,East,Debit Card,241.44
+ORD00222,2024-11-19,Tablet,Electronics,4,1456.84,Returning,North,PayPal,5827.36
+ORD00487,2024-11-20,Headphones,Accessories,6,685.36,Returning,East,PayPal,4112.16
+ORD00496,2024-11-20,Phone,Accessories,4,467.61,New,West,PayPal,1870.44
+ORD00229,2024-11-20,Laptop,Electronics,5,1288.68,Returning,South,Credit Card,6443.4
+ORD00982,2024-11-21,Smartwatch,Accessories,2,70.78,New,East,Debit Card,141.56
+ORD00848,2024-11-21,Phone,Accessories,8,1466.7,Returning,West,Debit Card,11733.6
+ORD00238,2024-11-21,Phone,Electronics,3,416.56,New,East,PayPal,1249.68
+ORD00408,2024-11-21,Smartwatch,Accessories,1,169.96,New,South,PayPal,169.96
+ORD00097,2024-11-22,Tablet,Electronics,7,86.2,Returning,South,PayPal,603.4
+ORD00623,2024-11-22,Laptop,Electronics,9,1056.02,Returning,West,Credit Card,9504.18
+ORD00154,2024-11-22,Laptop,Electronics,4,215.93,Returning,South,PayPal,863.72
+ORD00113,2024-11-23,Smartwatch,Electronics,8,1068.83,Returning,East,PayPal,8550.64
+ORD00046,2024-11-24,Headphones,Accessories,8,1379.07,New,East,PayPal,11032.56
+ORD00811,2024-11-25,Laptop,Electronics,7,1120.83,Returning,East,Credit Card,7845.81
+ORD00683,2024-11-25,Laptop,Electronics,6,732.88,Returning,East,Debit Card,4397.28
+ORD00515,2024-11-25,Phone,Accessories,7,182.49,Returning,West,Credit Card,1277.43
+ORD00011,2024-11-26,Phone,Electronics,3,1338.27,New,North,Debit Card,4014.81
+ORD00951,2024-11-26,Phone,Accessories,2,946.0,Returning,East,PayPal,1892.0
+ORD00598,2024-11-26,Headphones,Accessories,7,826.28,Returning,North,Credit Card,5783.96
+ORD00170,2024-11-26,Smartwatch,Accessories,5,1480.76,Returning,East,Credit Card,7403.8
+ORD01000,2024-11-28,Headphones,Electronics,4,1431.0,Returning,South,Debit Card,5724.0
+ORD00970,2024-11-30,Laptop,Accessories,5,433.48,Returning,South,Debit Card,2167.4
+ORD00976,2024-11-30,Smartwatch,Accessories,8,695.81,New,East,Credit Card,5566.48
+ORD00796,2024-11-30,Phone,Accessories,5,1253.1,Returning,West,Debit Card,6265.5
+ORD00801,2024-11-30,Tablet,Electronics,7,1342.41,Returning,West,Debit Card,9396.87
+ORD00500,2024-12-01,Laptop,Accessories,2,276.61,Returning,South,Debit Card,553.22
+ORD00827,2024-12-01,Phone,Electronics,6,377.75,Returning,North,Credit Card,2266.5
+ORD00526,2024-12-02,Phone,Electronics,5,206.04,Returning,West,PayPal,1030.2
+ORD00872,2024-12-02,Smartwatch,Accessories,1,1195.52,Returning,West,Debit Card,1195.52
+ORD00292,2024-12-03,Phone,Accessories,5,1494.78,Returning,North,Debit Card,7473.9
+ORD00794,2024-12-03,Tablet,Electronics,6,250.12,Returning,East,Credit Card,1500.72
+ORD00251,2024-12-03,Smartwatch,Electronics,7,1139.93,Returning,East,Credit Card,7979.51
+ORD00085,2024-12-03,Laptop,Accessories,2,151.21,Returning,East,Debit Card,302.42
+ORD00577,2024-12-04,Laptop,Accessories,1,1424.96,New,South,PayPal,1424.96
+ORD00617,2024-12-04,Headphones,Electronics,9,531.4,Returning,West,PayPal,4782.6
+ORD00285,2024-12-05,Smartwatch,Electronics,2,729.08,Returning,West,Debit Card,1458.16
+ORD00504,2024-12-05,Smartwatch,Electronics,9,188.81,Returning,North,Debit Card,1699.29
+ORD00056,2024-12-05,Laptop,Accessories,1,150.53,Returning,North,PayPal,150.53
+ORD00813,2024-12-05,Phone,Electronics,5,223.36,New,South,Debit Card,1116.8
+ORD00168,2024-12-05,Laptop,Electronics,7,1176.36,Returning,East,Debit Card,8234.52
+ORD00730,2024-12-06,Laptop,Electronics,8,968.45,Returning,West,Debit Card,7747.6
+ORD00476,2024-12-06,Phone,Accessories,5,396.76,Returning,South,Credit Card,1983.8
+ORD00784,2024-12-06,Smartwatch,Accessories,6,1244.23,New,West,Credit Card,7465.38
+ORD00404,2024-12-07,Laptop,Accessories,3,1064.55,New,East,Debit Card,3193.65
+ORD00565,2024-12-07,Smartwatch,Electronics,4,691.27,Returning,East,Debit Card,2765.08
+ORD00394,2024-12-07,Phone,Electronics,2,896.23,Returning,East,Credit Card,1792.46
+ORD00364,2024-12-07,Tablet,Electronics,8,445.91,Returning,North,PayPal,3567.28
+ORD00621,2024-12-07,Headphones,Electronics,1,1104.92,New,West,Credit Card,1104.92
+ORD00734,2024-12-07,Headphones,Electronics,7,908.42,Returning,North,PayPal,6358.94
+ORD00211,2024-12-08,Phone,Electronics,8,1062.87,Returning,East,Debit Card,8502.96
+ORD00099,2024-12-09,Tablet,Electronics,1,707.69,Returning,East,PayPal,707.69
+ORD00020,2024-12-09,Laptop,Electronics,4,682.81,Returning,West,Debit Card,2731.24
+ORD00029,2024-12-10,Headphones,Electronics,5,1403.68,New,East,Credit Card,7018.4
+ORD00096,2024-12-10,Phone,Electronics,5,1043.82,New,South,Credit Card,5219.1
+ORD00261,2024-12-11,Laptop,Electronics,5,393.77,New,East,PayPal,1968.85
+ORD00054,2024-12-11,Laptop,Accessories,9,633.39,Returning,East,Debit Card,5700.51
+ORD00243,2024-12-11,Smartwatch,Electronics,6,881.17,Returning,South,PayPal,5287.02
+ORD00136,2024-12-11,Smartwatch,Accessories,2,553.89,Returning,South,Credit Card,1107.78
+ORD00438,2024-12-11,Phone,Electronics,7,1484.68,New,North,PayPal,10392.76
+ORD00853,2024-12-11,Smartwatch,Accessories,2,1366.22,Returning,South,Credit Card,2732.44
+ORD00636,2024-12-11,Tablet,Electronics,3,898.02,Returning,East,Debit Card,2694.06
+ORD00797,2024-12-12,Phone,Electronics,5,1466.35,Returning,South,Credit Card,7331.75
+ORD00650,2024-12-13,Headphones,Accessories,5,841.09,New,East,Credit Card,4205.45
+ORD00690,2024-12-13,Laptop,Electronics,9,791.88,Returning,North,Credit Card,7126.92
+ORD00172,2024-12-13,Laptop,Accessories,5,192.95,Returning,North,PayPal,964.75
+ORD00763,2024-12-13,Laptop,Electronics,1,1358.92,New,North,Credit Card,1358.92
+ORD00340,2024-12-14,Headphones,Electronics,6,1202.0,Returning,East,Debit Card,7212.0
+ORD00239,2024-12-14,Phone,Electronics,9,1411.4,Returning,West,Debit Card,12702.6
+ORD00291,2024-12-14,Smartwatch,Electronics,7,1396.16,Returning,West,Credit Card,9773.12
+ORD00461,2024-12-14,Tablet,Accessories,4,346.16,Returning,East,Debit Card,1384.64
+ORD00002,2024-12-14,Tablet,Electronics,4,1475.79,New,South,Credit Card,5903.16
+ORD00953,2024-12-15,Laptop,Electronics,9,1317.12,Returning,East,Debit Card,11854.08
+ORD00867,2024-12-15,Smartwatch,Electronics,6,1399.43,Returning,West,Debit Card,8396.58
+ORD00421,2024-12-15,Tablet,Accessories,9,1302.03,Returning,North,Debit Card,11718.27
+ORD00950,2024-12-15,Phone,Accessories,9,1189.59,Returning,North,Credit Card,10706.31
+ORD00075,2024-12-16,Smartwatch,Electronics,2,1426.34,New,North,Credit Card,2852.68
+ORD00744,2024-12-16,Laptop,Electronics,2,1284.81,New,East,PayPal,2569.62
+ORD00140,2024-12-17,Laptop,Electronics,7,1343.24,Returning,West,Debit Card,9402.68
+ORD00834,2024-12-17,Phone,Electronics,5,995.26,Returning,West,PayPal,4976.3
+ORD00246,2024-12-17,Smartwatch,Accessories,9,86.59,Returning,West,Credit Card,779.31
+ORD00390,2024-12-19,Phone,Electronics,9,1427.35,Returning,South,PayPal,12846.15
+ORD00558,2024-12-20,Smartwatch,Electronics,1,1336.32,Returning,East,PayPal,1336.32
+ORD00878,2024-12-20,Phone,Accessories,2,161.25,Returning,North,Debit Card,322.5
+ORD00423,2024-12-20,Tablet,Electronics,5,1316.01,Returning,South,Credit Card,6580.05
+ORD00377,2024-12-20,Tablet,Electronics,4,477.85,Returning,North,PayPal,1911.4
+ORD00999,2024-12-21,Tablet,Accessories,5,1289.47,New,North,PayPal,6447.35
+ORD00541,2024-12-22,Smartwatch,Electronics,7,389.15,Returning,North,Credit Card,2724.05
+ORD00699,2024-12-22,Headphones,Electronics,9,1160.45,Returning,West,Debit Card,10444.05
+ORD00482,2024-12-22,Tablet,Accessories,5,385.65,Returning,East,Debit Card,1928.25
+ORD00686,2024-12-23,Phone,Electronics,2,995.53,Returning,South,Credit Card,1991.06
+ORD00746,2024-12-23,Laptop,Accessories,2,1103.92,New,East,Credit Card,2207.84
+ORD00132,2024-12-24,Laptop,Electronics,9,947.54,New,East,Credit Card,8527.86
+ORD00181,2024-12-24,Headphones,Electronics,3,54.55,Returning,North,PayPal,163.65
+ORD00359,2024-12-25,Laptop,Electronics,1,324.62,New,West,Debit Card,324.62
+ORD00252,2024-12-25,Headphones,Electronics,1,954.04,New,West,Debit Card,954.04
+ORD00122,2024-12-25,Headphones,Electronics,6,1465.47,Returning,South,PayPal,8792.82
+ORD00063,2024-12-25,Tablet,Electronics,4,1309.2,Returning,West,Debit Card,5236.8
+ORD00014,2024-12-25,Smartwatch,Accessories,3,1294.27,Returning,East,PayPal,3882.81
+ORD00830,2024-12-25,Headphones,Electronics,7,459.28,Returning,West,Debit Card,3214.96
+ORD00648,2024-12-26,Phone,Electronics,5,1196.25,New,South,PayPal,5981.25
+ORD00559,2024-12-26,Smartwatch,Accessories,3,658.78,Returning,South,Debit Card,1976.34
+ORD00899,2024-12-28,Headphones,Electronics,9,430.58,Returning,East,Credit Card,3875.22
+ORD00631,2024-12-29,Phone,Accessories,4,552.51,New,East,PayPal,2210.04
+ORD00038,2024-12-29,Headphones,Electronics,9,1342.98,New,South,Debit Card,12086.82
+ORD00941,2024-12-30,Phone,Electronics,3,621.5,Returning,South,PayPal,1864.5
+ORD00720,2024-12-30,Phone,Accessories,9,233.26,Returning,West,PayPal,2099.34
+ORD00619,2024-12-30,Headphones,Electronics,6,1312.42,Returning,South,Credit Card,7874.52
+ORD00313,2024-12-30,Smartwatch,Electronics,9,580.53,Returning,East,PayPal,5224.77
+ORD00420,2024-12-30,Phone,Electronics,7,944.57,Returning,North,Debit Card,6611.99
+ORD00890,2024-12-30,Laptop,Electronics,1,943.82,Returning,South,PayPal,943.82

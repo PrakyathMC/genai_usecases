@@ -1,0 +1,36 @@
+# Advanced RAG Requirements
+# Install with: pip install -r requirements.txt
+
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-classic
+langchain-experimental
+
+# Embeddings and ML
+sentence-transformers
+huggingface-hub
+
+# Vector database
+chromadb
+
+# BM25 for hybrid search
+rank-bm25
+
+# PDF processing
+pypdf
+
+# Environment variables
+python-dotenv
+
+# Data processing
+numpy
+pandas
+
+# OpenAI
+openai

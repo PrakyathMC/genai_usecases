@@ -22,7 +22,7 @@ chromadb
 # BM25 for hybrid search
 rank-bm25
 
-# PDF processing
+# PDF processing is added
 pypdf
 
 # Environment variables

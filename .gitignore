@@ -1,0 +1,28 @@
+# Environment variables (NEVER commit these!)
+.env
+*.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# ChromaDB local storage
+chroma/
+.chroma/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -23,6 +23,10 @@ __pycache__/
 chroma/
 .chroma/
 
+# Audio responses (voice assistant)
+audio_responses/
+*.mp3
+
 # OS files
 .DS_Store
 Thumbs.db

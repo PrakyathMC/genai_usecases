@@ -1,0 +1,52 @@
+# Voice Assistant Prototype
+STT → RAG → TTS Pipeline
+
+## Quick Start
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Add your OpenAI API key to .env file:
+   OPENAI_API_KEY=your_key_here
+
+3. Run the assistant:
+   python voice_assistant.py
+
+4. (Optional) Run FastAPI server:
+   python app.py
+   Then visit: http://localhost:8000/docs
+
+
+## How to Use
+
+| Method           | Command              |  Input |
+|------------------|----------------------|-------|
+
+| Terminal (live mic) | python voice_assistant.py | Speak directly |
+
+| FastAPI | python app.py | Upload audio file/Add Text Question |
+
+
+## Known Limitations
+
+- First run has higher latency due to RAG initialization (embedding the knowledge base)
+- Subsequent questions are faster as embeddings are stored in memory(globl)
+- Restarting the app re-initializes RAG from scratch
+
+
+## File Structure
+
+| File                                   Purpose 
+|---------------------------------------------------------------------
+| voice_assistant.py     |      Core pipeline (STT + RAG + TTS) 
+| knowledge_base.txt     |     TechStore FAQ for RAG 
+| app.py                 |      FastAPI endpoints 
+| requirements.txt       |      All dependencies 
+| audio_responses/       |      Saved audio responses (gitignored) 
+
+
+## Pipeline Overview
+
+1. STT: Microphone → Google Speech Recognition → Text
+2. RAG: Text → Chroma vectorstore → GPT-4o-mini → Response
+3. TTS: Response → gTTS → MP3 audio output

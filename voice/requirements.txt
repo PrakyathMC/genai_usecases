@@ -19,6 +19,11 @@ langchain-classic
 # Vector database
 chromadb
 
+# ===== FastAPI =====
+fastapi
+uvicorn
+python-multipart
+
 # ===== Utilities =====
 python-dotenv
 openai

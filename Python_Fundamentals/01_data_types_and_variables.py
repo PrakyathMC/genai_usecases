@@ -248,37 +248,6 @@ print(f"  round(3.14159, 2) = {round(3.14159, 2)}")
 
 
 # =============================================================================
-# SECTION 6: Practice Exercises
-# =============================================================================
-
-print("\n" + "=" * 60)
-print("SECTION 6: Practice Exercises")
-print("=" * 60)
-
-print("""
-Try these exercises yourself:
-
-1. Create variables for your name, age, and favorite number.
-   Print them using an f-string.
-
-2. Given the string "Hello World", extract:
-   - First 5 characters
-   - Last 5 characters
-   - The string reversed
-
-3. Convert the string "42.5" to a float, multiply by 2,
-   then convert the result to an integer. What do you get?
-
-4. What is the result of:
-   - 17 // 5 ?
-   - 17 % 5 ?
-   - Explain why.
-
-5. Given name = "  PYTHON  ", make it "Python" (stripped and title case)
-""")
-
-
-# =============================================================================
 # SUMMARY
 # =============================================================================
 
